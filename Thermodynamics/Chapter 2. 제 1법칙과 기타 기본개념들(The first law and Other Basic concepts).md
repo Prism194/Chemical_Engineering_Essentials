@@ -181,7 +181,7 @@ $dH=dU+d\left(PV\right),\Delta H=\Delta U+\Delta\left(PV\right)$ -> 1mol 에 대
 
 2.9 열린 계에 대한 물질 및 에너지 수지
 1\. 열린 계에 대한 물질수지
-
-
+- $\frac{dm_{cv}}{dt}+\Delta\dot{m}_{fs}=0$ : 첫 항은 대상 부피 내로 유입되는 알짜 유량, 두 번째는 출구와 입구 흐름들 간의 차이
+- 
 
 
