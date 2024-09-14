@@ -182,6 +182,9 @@ $dH=dU+d\left(PV\right),\Delta H=\Delta U+\Delta\left(PV\right)$ -> 1mol 에 대
 2.9 열린 계에 대한 물질 및 에너지 수지
 1\. 열린 계에 대한 물질수지
 - $\frac{dm_{cv}}{dt}+\Delta\dot{m}_{fs}=0$ : 첫 항은 대상 부피 내로 유입되는 알짜 유량, 두 번째는 출구와 입구 흐름들 간의 차이
-- 
-
+2\. 열린 계에 대한 물질수지
+1\) 일반적인 식
+- $\frac{d (mU)_{cv}}{dt}+\Delta\left\lbrack\left(H+\frac12u^2+zg\right)\dot{m}\right\rbrack_{fs}=\dot{Q}+\dot{W}$ 이는 운동에너지, 위치에너지 항을 제외해서 더 간단하게 표기 가능하다
+2\) 정상상태 흐름 공정에 대한 에너지수지
+- 정상상태 : 대상 부피 내부 조건들이 
 
