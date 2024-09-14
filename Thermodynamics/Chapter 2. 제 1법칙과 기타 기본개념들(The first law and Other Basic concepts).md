@@ -186,5 +186,8 @@ $dH=dU+d\left(PV\right),\Delta H=\Delta U+\Delta\left(PV\right)$ -> 1mol 에 대
 1\) 일반적인 식
 - $\frac{d (mU)_{cv}}{dt}+\Delta\left\lbrack\left(H+\frac12u^2+zg\right)\dot{m}\right\rbrack_{fs}=\dot{Q}+\dot{W}$ 이는 운동에너지, 위치에너지 항을 제외해서 더 간단하게 표기 가능하다
 2\) 정상상태 흐름 공정에 대한 에너지수지
-- 정상상태 : 대상 부피 내부 조건들이 
+- 정상상태 흐름 공정 : 대상 부피 내부 조건들이 시간에 따라 변하지 않는 공정
+- $\Delta H+\frac{\Delta\mu^2}{2}+g\Delta z=Q+W_{s}$
+- 운동 및 포텐셜 에너지 항을 무시하면, $\Delta H=Q+W_{s}$
+- 
 
