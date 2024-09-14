@@ -180,6 +180,7 @@ $dH=dU+d\left(PV\right),\Delta H=\Delta U+\Delta\left(PV\right)$ -> 1mol 에 대
 - (2.22)식은 Q가 경로에 의존하므로 엄밀한 일정압력 공정에 대해서만 유효하다.
 
 2.9 열린 계에 대한 물질 및 에너지 수지
+1\. 열린 계에 대한 물질수지
 
 
 
