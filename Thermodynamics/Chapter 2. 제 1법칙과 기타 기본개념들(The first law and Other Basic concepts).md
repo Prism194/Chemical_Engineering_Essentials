@@ -159,6 +159,9 @@ $dH=dU+d\left(PV\right),\Delta H=\Delta U+\Delta\left(PV\right)$ -> 1mol 에 대
 - 정의 : $C=\frac{dQ}{dT}$
 2\. 정적 열용량
 - 정의 : $C_{V}=\left(\frac{\partial U}{\partial T}\right)_{V}$
-- 
+- U(T, V), 이때 U는 T, V뿐 아니라 T, P에 대한 함수로도 쓸 수 있다.
+3\. 내부에너지와 정적 열용량
+- $dU=C_{V}dT$, $\Delta U=\int_{T_1}^{T_2}C_{V}dT$(V는 일정)
+- $Q=\Delta U=\int_{T_1}^{T_2}C_{V}dT$
 
 
