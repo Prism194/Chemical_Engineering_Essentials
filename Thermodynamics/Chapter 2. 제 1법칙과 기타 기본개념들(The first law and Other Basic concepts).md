@@ -158,6 +158,7 @@ $dH=dU+d\left(PV\right),\Delta H=\Delta U+\Delta\left(PV\right)$ -> 1mol 에 대
 1\. 열용량
 - 정의 : $C=\frac{dQ}{dT}$
 2\. 정적 열용량
-- 정의 : 
+- 정의 : $C_{V}=\left(\frac{\partial U}{\partial T}\right)_{V}$
+- 
 
 
