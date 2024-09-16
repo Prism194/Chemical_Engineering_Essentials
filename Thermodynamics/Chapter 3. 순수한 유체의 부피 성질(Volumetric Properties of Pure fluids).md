@@ -73,4 +73,9 @@ $$F=2-\pi+N$$
 2\) PVT 상태 방정식
 - 단일상에 대해서는, P, V, T를 연결하는 어떤 유일한 관계가 존재한다. 
 - 이러한 관계를 f(P, V, T) = 0으로 나타낼 수 있으며, 이를 PVT 상태 방정식이라고 한다.
-3\) ㅂ
+3\) 부피 팽창률과 등온 압축률
+- V를 T, P의 함수로 간주한다면, dV항을 다음과 같이 나타낼 수 있다 $dV=\left(\frac{\partial V}{\partial T}\right)_{P}dT+\left(\frac{\partial V}{\partial P}\right)_{T}dP$
+- 부피 팽창률 : $\beta=\frac{1}{V}\left(\frac{\partial V}{\partial T}\right)_{P}dT+\left(\frac{\partial V}{\partial P}\right)_{T}dP$
+- 등온 압축률 : $\kappa=-\frac{1}{V}\left(\frac{\partial V}{\partial P}\right)_{T}$
+- $\frac{dV}{V}=\beta dT-\kappa dP$
+- 
