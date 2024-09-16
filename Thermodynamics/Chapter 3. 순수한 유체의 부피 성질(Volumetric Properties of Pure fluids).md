@@ -86,7 +86,6 @@ $$F=2-\pi+N$$
 - 의의 : 액체의 거동을 충분히 나타낸다
 
 3.3 이상기체와 이상기체 상태
-1\. 이상기체 법칙
 1\. 이상기체
 1\) <font style = "color:#003380"><strong>이상기체 법칙</strong></font>
 - 법칙 : PV=RT, 이상기체의 정의이기도 하다.
@@ -98,3 +97,7 @@ $$F=2-\pi+N$$
 	$PV^{ig}=RT$
 - 분자들 간의 작용하는 힘이 없다 -> 내부에너지는 오직 온도에만 의존한다.
 	$U^{ig}=U\left(T\right)$
+2\. 이상기체 상태에 대한 성질관계
+1\)
+- [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)|정적 열용량의 정의]]$C_{V^{}}^{ig}=\left(\frac{\partial U^{ig}}{\partial T}\right)_{V}=\frac{dU^{ig}\left(T\right)}{dT}=C_{V}^{ig}\left(T\right)$
+- 
