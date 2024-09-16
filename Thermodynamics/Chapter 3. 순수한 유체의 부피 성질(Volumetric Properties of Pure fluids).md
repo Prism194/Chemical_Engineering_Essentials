@@ -124,7 +124,7 @@ $$F=2-\pi+N$$
 - dV 소거 : $V^{ig}=\frac{RT}{P}$ 미분 -> $dV^{ig}=\frac{R}{P}\left(dT-T^{}\frac{dP}{P}\right)$
 	->$dQ=C_{P}^{ig}dT-RT^{}\frac{dP}{P}$, $dW=-RdT+RT^{}\frac{dP}{P}$(3.18), (3.19)
 
-4\. 등온, 등압, 정적(일정 부피)공정에서 Q, W계산
+4\. 등온, 등압, 정적(일정 부피) 공정에서 Q, W계산
 1\) 등온 공정
 - $\Delta U^{ig}=\Delta H^{ig}=0$ (T 일정)
 - $Q=RT\ln\frac{V_2^{ig}}{V_1^{ig}}=RT\ln\frac{P_1}{P_2}$(T가 일정하니까 당연히 dT=0)
@@ -134,3 +134,7 @@ $$F=2-\pi+N$$
 - $\Delta U^{ig}=\int C_{V}^{ig}dT$, $W=-R\left(T_2-T_1\right)$(3.19 참조)
 - 결론 (3.14), (3.18) 참조 : $$Q=\Delta H^{ig}=\int_{}^{}C_{P}^{ig}dT$$
 3\) 정적 공정
+- dV=0, W=0 이므로
+- 결론 (3.13), (3.16) 참조 : $$Q=\Delta U^{ig}=\int_{}^{}C_{V}^{ig}dT$$
+4\) 단열공정; 일정한 비열
+- dQ = 0
