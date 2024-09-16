@@ -77,5 +77,11 @@ $$F=2-\pi+N$$
 - V를 T, P의 함수로 간주한다면, dV항을 다음과 같이 나타낼 수 있다 $dV=\left(\frac{\partial V}{\partial T}\right)_{P}dT+\left(\frac{\partial V}{\partial P}\right)_{T}dP$
 - 부피 팽창률 : $\beta=\frac{1}{V}\left(\frac{\partial V}{\partial T}\right)_{P}dT+\left(\frac{\partial V}{\partial P}\right)_{T}dP$
 - 등온 압축률 : $\kappa=-\frac{1}{V}\left(\frac{\partial V}{\partial P}\right)_{T}$
-- $\frac{dV}{V}=\beta dT-\kappa dP$
+- $\frac{dV}{V}=\beta dT-\kappa dP$(3.5)$\ln\frac{V_2}{V_1}=\beta\left(T_2-T_1\right)-\kappa\left(P_2-P_1\right)$(3.6, 단순 적분식)
+- 액체일 때 부피 팽창률은 거의 언제나 양수(0도-4도에서의 물은 예외)이며, 등온 압축률은 항상 양수이다.
+- 임계점에 근접하지 않았을 때에는 이들을 상수로 봐도 된다.
+4\) 비압축성 유체
+- 액체 상들은 부피 팽창률, 등온 압축률 모두 낮다.
+- 비압축성 유체 : 부피 팽창률, 등온 압축률 모두 0인 유체, 당연히 상태 방정식도 없다
+- 의의 : 액체의 거동을 충분히 나타낸다
 - 
