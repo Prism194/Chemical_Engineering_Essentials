@@ -109,8 +109,11 @@ $$F=2-\pi+N$$
 - [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#내부에너지와_정적_열용량|내부에너지와 정적 열용량]]의 관계에 의해서, (3.10) 미분 결과 $C_{P}^{ig}=\frac{dH^{ig}}{dT}=\frac{dU^{ig}}{dT}+R=C_{V}^{ig}+R$이다. 
 	의미 : 이상기체 상태에서 정적, 정압 열용량은 그 차이가 R과 같으면서, 온도에 따라 값들이 변한다.
 2\) 이상기체에서 내부에너지와 엔탈피 변화 계산 방법
-- [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#공정_관계성|과거 식]] 과 같이, $dU=C_{V}dT$, $\Delta U=\int_{T_1}^{T_2}C_{V}dT$ $dH=C_{P}dT$, $\Delta H=\int_{T_1}^{T_2}C_{P}dT$ 로 서술 가능하다. 
+- [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#공정_관계성|일정부피, 일정압력에서 계산한 내부에너지, 엔탈피 변화 식]] 과 같이, $dU=C_{V}dT$, $\Delta U=\int_{T_1}^{T_2}C_{V}dT$ $dH=C_{P}dT$, $\Delta H=\int_{T_1}^{T_2}C_{P}dT$ 로 서술 가능하다. 
 - 이들은 변화는 각각 일정부피, 일정압력 공정에서 계산한 내부에너지, 엔탈피 변화와 같다.
 - 이전과 마찬가지로 Q는 여기서 바로 구할 수 없는데, Q는 경로 의존적이기 때문이다.
 
-3\. 이상
+3\. 이상기체 상태에 대한 공정계산
+1\) dQ, dW 결정
+- [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#가역적인_닫힌_계_공정|가역적인 닫힌 계 공정에서 일에 대한 식]]에 의해, $dW=-PdV^{ig}$  이다.
+- [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)]]
