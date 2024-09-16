@@ -137,4 +137,6 @@ $$F=2-\pi+N$$
 - dV=0, W=0 이므로
 - 결론 (3.13), (3.16) 참조 : $$Q=\Delta U^{ig}=\int_{}^{}C_{V}^{ig}dT$$
 4\) 단열공정; 일정한 비열
-- dQ = 0
+- dQ = 0, (3.16), (3.18) 은 각각 0
+- $\frac{dT}{T}=-\frac{R}{C_{V}^{ig}}\frac{dV^{ig}}{V^{ig}}$
+	->$\frac{T_2}{T_1}=\left(\frac{V_1^{ig}}{V_2^{ig}}\right)^{\frac{R}{C_{V}^{ig}}}$ 
