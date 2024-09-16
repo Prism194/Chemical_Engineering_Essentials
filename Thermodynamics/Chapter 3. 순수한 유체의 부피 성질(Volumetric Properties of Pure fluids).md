@@ -114,10 +114,15 @@ $$F=2-\pi+N$$
 - 이전과 마찬가지로 Q는 여기서 바로 구할 수 없는데, Q는 경로 의존적이기 때문이다.
 
 3\. 이상기체 상태에 대한 공정계산
+<font style = "color:#003380"><center><strong>전제 : 아래 식들은 닫힌 계, 역학적으로 가역인 공정, 이상기체 상태에 적용된다.</strong></center></font>
 1\) dQ 결정
 - [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#가역적인_닫힌_계_공정|가역적인 닫힌 계 공정에서 일에 대한 식]]에 의해, $dW=-PdV^{ig}$  이다.
 - [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#내부에너지_식|내부에너지 관련 식]]에 의해 $dU=dQ+dW=C_{V}^{ig}dT$ 이므로, $dQ=C_{V}^{ig}dT+PdV^{ig}$이다.
 2\) dW 결정
 - P 소거(P = RT/V)
 	-> $dQ=C_{V}^{ig}dT+RT\frac{dV^{ig}}{V^{ig}}$, $dW=-RT\frac{dV^{ig}}{V^{ig}}$ 
-- dV 소거
+- dV 소거 : $V^{ig}=\frac{RT}{P}$ 미분 -> $dV^{ig}=\frac{R}{P}\left(dT-T^{}\frac{dP}{P}\right)$
+	->$dQ=C_{P}^{ig}dT-RT^{}\frac{dP}{P}$, $dW=-RdT+RT^{}\frac{dP}{P}$
+
+4\. 등온공정에서 Q, W계선
+- 
