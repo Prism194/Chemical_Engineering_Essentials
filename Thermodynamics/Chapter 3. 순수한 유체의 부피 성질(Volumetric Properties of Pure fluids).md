@@ -97,8 +97,9 @@ $$F=2-\pi+N$$
 	$PV^{ig}=RT$
 - 분자들 간의 작용하는 힘이 없다 -> 내부에너지는 오직 온도에만 의존한다.
 	$U^{ig}=U\left(T\right)$
-2\. 이상기체 상태에 대한 성질관계
-1\) $C_{V}^{ig}\&C_{P}^{ig}$를 의 관계 유도
+
+2\. 이상기체와 내부에너지, 엔탈피 변화
+1\) $C_{V}^{ig}\&C_{P}^{ig}$ 의 관계 유도
 - [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#정적_열용량|정적 열용량의 정의]] 에 따르면, 편미분 꼴이 나오는데, 이상기체 상태에서 몰 부피를 무시할 수 있다.
 	즉, 온도만의 함수가 된다. 
 - $C_{V^{}}^{ig}=\left(\frac{\partial U^{ig}}{\partial T}\right)_{V}=\frac{dU^{ig}\left(T\right)}{dT}=C_{V}^{ig}\left(T\right)$
@@ -107,4 +108,9 @@ $$F=2-\pi+N$$
 - $C_{P^{}}^{ig}=\left(\frac{\partial H^{ig}}{\partial T}\right)_{P}=\frac{dH^{ig}\left(T\right)}{dT}=C_{P}^{ig}\left(T\right)$ 
 - [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#내부에너지와_정적_열용량|내부에너지와 정적 열용량]]의 관계에 의해서, (3.10) 미분 결과 $C_{P}^{ig}=\frac{dH^{ig}}{dT}=\frac{dU^{ig}}{dT}+R=C_{V}^{ig}+R$이다. 
 	의미 : 이상기체 상태에서 정적, 정압 열용량은 그 차이가 R과 같으면서, 온도에 따라 값들이 변한다.
-2\) [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#공정_관계성|]]
+2\) 이상기체에서 내부에너지와 엔탈피 변화 계산 방법
+- [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#공정_관계성|과거 식]] 과 같이, $dU=C_{V}dT$, $\Delta U=\int_{T_1}^{T_2}C_{V}dT$ $dH=C_{P}dT$, $\Delta H=\int_{T_1}^{T_2}C_{P}dT$ 로 서술 가능하다. 
+- 이들은 변화는 각각 일정부피, 일정압력 공정에서 계산한 내부에너지, 엔탈피 변화와 같다.
+- 이전과 마찬가지로 Q는 여기서 바로 구할 수 없는데, Q는 경로 의존적이기 때문이다.
+
+3\. 이상
