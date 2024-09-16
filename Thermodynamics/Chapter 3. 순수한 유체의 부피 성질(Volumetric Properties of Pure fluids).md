@@ -109,7 +109,7 @@ $$F=2-\pi+N$$
 - [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#내부에너지와_정적_열용량|내부에너지와 정적 열용량]]의 관계에 의해서, (3.10) 미분 결과 $C_{P}^{ig}=\frac{dH^{ig}}{dT}=\frac{dU^{ig}}{dT}+R=C_{V}^{ig}+R$이다. 
 	의미 : 이상기체 상태에서 정적, 정압 열용량은 그 차이가 R과 같으면서, 온도에 따라 값들이 변한다.
 2\) 이상기체에서 내부에너지와 엔탈피 변화 계산 방법
-- [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#공정_관계성|일정부피, 일정압력에서 계산한 내부에너지, 엔탈피 변화 식]] 과 같이, $dU=C_{V}dT$, $\Delta U=\int_{T_1}^{T_2}C_{V}dT$ $dH=C_{P}dT$, $\Delta H=\int_{T_1}^{T_2}C_{P}dT$ 로 서술 가능하다. 
+- [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#공정_관계성|일정부피, 일정압력에서 계산한 내부에너지, 엔탈피 변화 식]] 과 같이, $dU=C_{V}dT$, $\Delta U=\int_{T_1}^{T_2}C_{V}dT$ $dH=C_{P}dT$, $\Delta H=\int_{T_1}^{T_2}C_{P}dT$ 로 서술 가능하다. (3.13), (3.14)
 - 이들은 변화는 각각 일정부피, 일정압력 공정에서 계산한 내부에너지, 엔탈피 변화와 같다.
 - 이전과 마찬가지로 Q는 여기서 바로 구할 수 없는데, Q는 경로 의존적이기 때문이다.
 
@@ -124,11 +124,13 @@ $$F=2-\pi+N$$
 - dV 소거 : $V^{ig}=\frac{RT}{P}$ 미분 -> $dV^{ig}=\frac{R}{P}\left(dT-T^{}\frac{dP}{P}\right)$
 	->$dQ=C_{P}^{ig}dT-RT^{}\frac{dP}{P}$, $dW=-RdT+RT^{}\frac{dP}{P}$(3.18), (3.19)
 
-4\. 등온, 등압, 정적공정에서 Q, W계산
-1\) 등온공정
+4\. 등온, 등압, 정적(일정 부피)공정에서 Q, W계산
+1\) 등온 공정
 - $\Delta U^{ig}=\Delta H^{ig}=0$ (T 일정)
 - $Q=RT\ln\frac{V_2^{ig}}{V_1^{ig}}=RT\ln\frac{P_1}{P_2}$(T가 일정하니까 당연히 dT=0)
 - $W=RT\ln\frac{V_1^{ig}}{V_2^{ig}}=RT\ln\frac{P_2}{P_1}$
-- 결론 : $Q=-W=RT\ln\frac{V_2^{ig}}{V_1^{ig}}=RT\ln\frac{P_1}{P_2}$
-2\) 등압공정
-- $\Delta U^{ig}=\int C_{V}^{ig}dT$,  
+- 결론 : $$Q=-W=RT\ln\frac{V_2^{ig}}{V_1^{ig}}=RT\ln\frac{P_1}{P_2}$$
+2\) 등압 공정
+- $\Delta U^{ig}=\int C_{V}^{ig}dT$, $W=-R\left(T_2-T_1\right)$(3.19 참조)
+- 결론 (3.14), (3.18) 참조 : $$Q=\Delta H^{ig}=\int_{}^{}C_{P}^{ig}dT$$
+3\) 정적 공정
