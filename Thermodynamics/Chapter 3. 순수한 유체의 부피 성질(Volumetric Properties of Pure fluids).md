@@ -120,9 +120,15 @@ $$F=2-\pi+N$$
 - [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#내부에너지_식|내부에너지 관련 식]]에 의해 $dU=dQ+dW=C_{V}^{ig}dT$ 이므로, $dQ=C_{V}^{ig}dT+PdV^{ig}$이다.
 2\) dW 결정
 - P 소거(P = RT/V)
-	-> $dQ=C_{V}^{ig}dT+RT\frac{dV^{ig}}{V^{ig}}$, $dW=-RT\frac{dV^{ig}}{V^{ig}}$ 
+	-> $dQ=C_{V}^{ig}dT+RT\frac{dV^{ig}}{V^{ig}}$, $dW=-RT\frac{dV^{ig}}{V^{ig}}$ (3.16), (3.17)
 - dV 소거 : $V^{ig}=\frac{RT}{P}$ 미분 -> $dV^{ig}=\frac{R}{P}\left(dT-T^{}\frac{dP}{P}\right)$
-	->$dQ=C_{P}^{ig}dT-RT^{}\frac{dP}{P}$, $dW=-RdT+RT^{}\frac{dP}{P}$
+	->$dQ=C_{P}^{ig}dT-RT^{}\frac{dP}{P}$, $dW=-RdT+RT^{}\frac{dP}{P}$(3.18), (3.19)
 
-4\. 등온공정에서 Q, W계선
-- 
+4\. 등온, 등압, 정적공정에서 Q, W계산
+1\) 등온공정
+- $\Delta U^{ig}=\Delta H^{ig}=0$ (T 일정)
+- $Q=RT\ln\frac{V_2^{ig}}{V_1^{ig}}=RT\ln\frac{P_1}{P_2}$(T가 일정하니까 당연히 dT=0)
+- $W=RT\ln\frac{V_1^{ig}}{V_2^{ig}}=RT\ln\frac{P_2}{P_1}$
+- 결론 : $Q=-W=RT\ln\frac{V_2^{ig}}{V_1^{ig}}=RT\ln\frac{P_1}{P_2}$
+2\) 등압공정
+- $\Delta U^{ig}=\int C_{V}^{ig}dT$,  
