@@ -157,7 +157,7 @@ $dH=dU+d\left(PV\right),\Delta H=\Delta U+\Delta\left(PV\right)$ -> 1mol 에 대
 2.8 열용량
 1\. 열용량
 - 정의 : $C=\frac{dQ}{dT}$
-2\. 정적 열용량
+2\. 정적 열용량 #정적_열용량
 - 정의 : $C_{V}=\left(\frac{\partial U}{\partial T}\right)_{V}$
 - U(T, V), 이때 U는 T, V뿐 아니라 T, P에 대한 함수로도 쓸 수 있다.
 3\. 내부에너지와 정적 열용량
@@ -169,7 +169,7 @@ $dH=dU+d\left(PV\right),\Delta H=\Delta U+\Delta\left(PV\right)$ -> 1mol 에 대
 - (2.17)식은 모두 상태함수로만 구성되었기에, 공정이 실제로 실제부피에서 진행되었는지에 무관하게 공정이 V<sub>2</sub> =V<sub>1</sub>이기만 하면 적용 가능하다
 - 반면, (2.18)은 Q가 경로에 의존하기 때문에 엄밀한 일정부피 공정에 대해서만 유효하다.
 <strong><center>Q, W가 아닌 성질변화들을 계산하기 위해서 실제 공정은 이와 동일한 상태변화를 달성하는 임의의 다른 공정으로 대체될 수 있다.</center></strong>
-4\. 정압 열용량
+4\. 정압 열용량 #정압_열용량
 - 정의 : $C_{P}=\left(\frac{\partial H}{\partial T}\right)_{P}$
 5\. 엔탈피와 정압 열용량
 1\) 정압 열용량으로 엔탈피 계산

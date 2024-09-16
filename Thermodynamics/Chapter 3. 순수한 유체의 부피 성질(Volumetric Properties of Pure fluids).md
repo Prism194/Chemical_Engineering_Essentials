@@ -99,5 +99,7 @@ $$F=2-\pi+N$$
 	$U^{ig}=U\left(T\right)$
 2\. 이상기체 상태에 대한 성질관계
 1\)
-- [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)|정적 열용량의 정의]]$C_{V^{}}^{ig}=\left(\frac{\partial U^{ig}}{\partial T}\right)_{V}=\frac{dU^{ig}\left(T\right)}{dT}=C_{V}^{ig}\left(T\right)$
-- 
+- [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#정적_열용량|정적 열용량의 정의]] 에 따르면, 편미분 꼴이 나오는데, 이상기체 상태에서 몰 부피를 무시할 수 있다.
+	즉, 온도만의 함수가 된다. 
+- $C_{V^{}}^{ig}=\left(\frac{\partial U^{ig}}{\partial T}\right)_{V}=\frac{dU^{ig}\left(T\right)}{dT}=C_{V}^{ig}\left(T\right)$
+- [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#정압_열용량|정압 열용량의 정의]]에 따라서도 마찬가지로 
