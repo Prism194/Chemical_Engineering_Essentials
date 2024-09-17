@@ -36,7 +36,7 @@
 - Weight : The force of attraction exerted between an object and the earth
 
 4\. Percent composition
-1\) <font color="#003380"><strong>Percent composition</strong></font>
+1\) <font color="#003380"><strong>Percent composition</strong></font> -> <font color="#ff0000"><strong>시험에서 단위를 제대로 표기해야 한다</strong></font>
 - Weight % = w/w % = {(mass of solute) / (mass of solution)} x 100 %
 - Volume % = v/v % = {(volume of solute) / (volume of solution)} x 100 %
 - Weight / volume % = w/v % = {(weight of solute, g) / (volume of solution)} x 100 %
@@ -61,4 +61,4 @@
 	A. 52.8g
 - What mass of AgNO3(mw=169.9) is needed to convert 2.33 g of Na2CO3 (mw=106.0) to Ag2CO3 (mw= 275.7) ?
 	$2AgNO_3+Na_2CO_3\to Ag_2CO_3+2NaNO_3$
-	
+=> <font color="#ff0000"><strong>과거에 연습문제 및 예시들을 출제하였음</strong></font> 
