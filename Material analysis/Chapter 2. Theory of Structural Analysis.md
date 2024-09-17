@@ -166,4 +166,41 @@
 - cf. 쌓는 방향을 관찰할 때 FCC는 대각선 방향으로 관찰해야 한다.
 
 16\. Theoritical Density for Metals, $\rho$
-1\) 
+1\) Theoritical Density(Volume density) $\rho$
+![[Pasted image 20240917234202.png|400]]
+- n = # of atoms/unit cell
+- A = atomic weight / mole
+- Vc = Volume of unit cell = a^3 for cubic
+- Na = Avogadro's number = 6.022 x 10^23 atoms/mol
+2\) example 1
+- Cr(BCC), A = 52.00g/mol, R = 0.125nm, find the theoritical density
+- sol) a = $\frac{4R}{\sqrt3}$ = 0.2887nm, n = 2(BCC)
+- ![[Pasted image 20240917234635.png|500]]
+3\) example 2
+- Copper(FCC), A = 63.54g/mol, R = 0.1278nm, find the theoritical density
+- sol) a = $\frac{4R}{\sqrt2}$=0.361nm, n = 4(FCC)
+- ![[Pasted image 20240917234946.png|500]]
+- 결과적으로 APF에 의해서 생각된 바와 같이, FCC의 theoritical density가 더 크다는 게 나타났다
+- cf. 일반적으로 g/$\operatorname{cm}^3$을 주로 사용한다
+
+17\. Linear density of atoms
+1\) Linear density
+![[Pasted image 20240917235113.png|400]]
+2\) example 1
+- find the lienar density of Al in \[110]direction, a = 0.405nm
+- sol)
+	![[Pasted image 20240917235526.png|450]]
+3\) example 2
+- find the linear density of copper in \[110] direction, a = 0.361nm
+- sol) 위와 마찬가지로 2개의 half atom과 1개의 full atom을 지나칠 것이다
+	![[Pasted image 20240917235717.png|450]]
+
+18\. Planar density of atoms
+1\) Planar density
+![[Pasted image 20240917235903.png|400]]
+-> 선택된 평면에 의해서 교차된 원자들의 수 / 선택된 평면의 면적
+2\) example 1
+- find the planar density of Fe in \[110]direction, a = 0.287nm
+- sol) Fe is BCC, \[110] plane intersects center of 5 atoms(four 1/4 and 1 full atom)
+- Area of \[110] plane is $\sqrt2a$x$a=\sqrt2a^{^2}$ 
+	![[Pasted image 20240918000251.png|500]]
