@@ -233,10 +233,24 @@
 - ![[Pasted image 20240918212009.png|500]]
 2\) example 1
 - Determine minumum $\frac{^{\gamma}cation}{^{\gamma}anion}$ for an octahedral site(C.N. = 6)
-- sol) 기하학적 센스가 필요하다
+- sol) minimum 비율을 구하기 위해서, 음이온과 양이온이 서로 완전히 fit한 경우를 생각하자
 - ![[Pasted image 20240918212328.png|500]]
 - octahedral 구조를 가질 때, 위에서 구조를 보면 정사각형으로 보인다. 대각선은 양이온, 음이온의 반지름을  더한 값의 두 배이고, 변의 길이는 음이온의 반지름의 두 배이다.
 - 피타고라스 정리를 사용해서 양이온과 음이온의 비율을 구할 수 있다.
 
 3\) example 2
 - Determine minumum $\frac{^{\gamma}cation}{^{\gamma}anion}$ for an cubic site(C.N. = 6)
+- sol) minimum 비율을 구하기 위해서, 음이온과 양이온이 서로 완전히 fit한 경우를 생각하자
+- ![[Pasted image 20240918213015.png|500]]
+- cubic 구조의 경우, 정육면체의 대각선이 양이온, 음이온 반지름을 더한 값의 두 배이고, 각 변의 길이는 음이온 반지름의 두 배이다.
+- 피타고라스 정리를 사용해서 양이온과 음이온의 비율을 구할 수 있다.
+
+4\) example 3
+- Based on ionic radii, what crystal structure you predict for FeO?
+- ![[Pasted image 20240918213343.png|100]]
+- $\frac{r_{cation}}{r_{anion}}=\frac{0.077}{0.140}=0.550$, 표 값에  따라 coordinate number is 6이며, crystal structure는 octahedral이다(NaCL과 같다)
+- cf. $Na^{+}$ion은 octahedral site를 선호한다
+
+21\. Atomic bonding in ceramics
+1\) Ceramics
+- 정의 : 세라믹은 원자 간 강한 이온 결합과 일부 공유 결합을 특징으로 가진다. 무기 비금속 물질의  한 종류이다.
