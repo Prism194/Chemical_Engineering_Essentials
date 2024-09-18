@@ -1,4 +1,4 @@
-1\. Interatomic bondings
+1\. Interatomic bondings #interatomic_bondings
 1\) Ionic bond
 - characterized by <font color="#003380"><strong>electron transfer</strong></font> from one element (Na) to another (Cl).
 2\) covalent bond
@@ -211,6 +211,9 @@
 - Relative sizes of ions
 - Maintenance of Charge Neutrality
 - <font color="#003380"><strong>Coordination Number and Ionic Radii(size)</strong></font>
-2\) Atomic bonding
+2\) [[Chapter 2. Theory of Structural Analysis#interatomic_bondings|Atomic bonding]](위의 내용 참조)
 - Atomic bonding 주요 type 3가지 : covalent, ionic, metallic
-- covalent bonding : 
+- covalent bonding : 강한 directional bond, 종종 복잡한 결정 구조와 관련이 있다
+- ionic bonding : 이온들의 규칙적인 배열
+- metallic bonding : delocalized된 전자로 인해 금속 구조가 촘촘하게 채워짐
+3\) Relative sizes of ions
