@@ -205,7 +205,7 @@
 - Area of \[110] plane is $\sqrt2a$x$a=\sqrt2a^{^2}$ 
 	![[Pasted image 20240918000251.png|500]]
 
-19\. Factors that determine crystal structure - Atomic Bonding
+19\. Factors that determine crystal structure - part 1
 1\) Factors that determine crystal structure
 - Atomic Bonding
 - Relative sizes of ions
@@ -217,9 +217,23 @@
 - ionic bonding : 이온들의 규칙적인 배열
 - metallic bonding : delocalized된 전자로 인해 금속 구조가 촘촘하게 채워짐
 3\) Relative sizes of ions
-- 안정적 구조 형성 -> 이웃한 반대 이온의 숫자를 
+- <font color="#003380"><strong>안정적 구조 형성 -> 이웃한 반대 이온의 숫자를 최대화한다.(질문)</strong></font>
 ![[Pasted image 20240918152106.png|400]]
 -> 양이온이 너무 작으면 빈 공간을 제대로 채우지 못하고 불안정한 결정을 형성, 양이온이 음이온간의 빈 공간에 딱 맞거나, 조금 더 클 때 구조는 안정화 될 수 있다. 
 - 결정의 원자 또는 이온 크기 -> 결정의 배열 및 packing 방법에 영향
-- 더 작은 원자는 더 좁은 공간에 들어갈 수 있으므로 더 작고 밀도가 높은 결정 구조를 만들 수 있다.  
-- 결정 구조의 선택은 빈 공간을 최소화하고 원자 포장 효율을 극대화해야 할 필요성에 의해 영향을 받을 수 있습니다
+- 더 작은 원자는 더 좁은 공간에 들어갈 수 있어 더 작고 밀도가 높은 결정 구조를 만들 수 있다.  
+- 결정 구조는 빈 공간을 최소화(엔트로피 최소화, closed pack system 만들기 위해)하고 원자 packing 효율을 극대화(APF 극대화)해야 할 필요성에 의해 영향을 받을 수 있습니다
+4\) Maintenance of Charge Neutrality
+- Net charge in ceramic should be zero(당연)
+
+20\. <font color="#ff0000"><strong>Factors that determine crystal structure - part 2</strong></font>
+1\) Coordination Number and Ionic Radii
+- coordination number는 $\frac{^{\gamma}cation}{^{\gamma}anion}$ 이 커짐에 따라 증가한다
+- stable structure 형성을 할 때, 양이온 음이온 반지름 비율과 coordination number, coordination geometry 간의 관계
+- ![[Pasted image 20240918212009.png|500]]
+2\) example 1
+- Determine minumum $\frac{^{\gamma}cation}{^{\gamma}anion}$ for an octahedral site(C.N. = 6)
+- sol) 기하학적 센스가 필요하다
+- ![[Pasted image 20240918212328.png|500]]
+- octahedral 구조를 가질 때, 위에서 구조를 보면 정사각형으로 보인다. 대각선은 양이온, 음이온의 반지름을  더한 값의 두 배이고, 변의 길이는 음이온의 반지름의 두 배이다.
+- 피ㅣ타고라스 정릴서 문ㄴ제ㅔ를 풀 수 
