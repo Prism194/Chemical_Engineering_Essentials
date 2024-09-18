@@ -204,3 +204,13 @@
 - sol) Fe is BCC, \[110] plane intersects center of 5 atoms(four 1/4 and 1 full atom)
 - Area of \[110] plane is $\sqrt2a$x$a=\sqrt2a^{^2}$ 
 	![[Pasted image 20240918000251.png|500]]
+
+19\. Factors that determine crystal structure - Atomic Bonding
+1\) Factors that determine crystal structure
+- Atomic Bonding
+- Relative sizes of ions
+- Maintenance of Charge Neutrality
+- <font color="#003380"><strong>Coordination Number and Ionic Radii(size)</strong></font>
+2\) Atomic bonding
+- Atomic bonding 주요 type 3가지 : covalent, ionic, metallic
+- covalent bonding : 
