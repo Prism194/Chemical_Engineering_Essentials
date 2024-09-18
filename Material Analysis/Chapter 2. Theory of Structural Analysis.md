@@ -236,4 +236,7 @@
 - sol) 기하학적 센스가 필요하다
 - ![[Pasted image 20240918212328.png|500]]
 - octahedral 구조를 가질 때, 위에서 구조를 보면 정사각형으로 보인다. 대각선은 양이온, 음이온의 반지름을  더한 값의 두 배이고, 변의 길이는 음이온의 반지름의 두 배이다.
-- 피ㅣ타고라스 정릴서 문ㄴ제ㅔ를 풀 수 
+- 피타고라스 정리를 사용해서 양이온과 음이온의 비율을 구할 수 있다.
+
+3\) example 2
+- Determine minumum $\frac{^{\gamma}cation}{^{\gamma}anion}$ for an cubic site(C.N. = 6)
