@@ -36,7 +36,7 @@
 1\) general characteristics
 - Electrons delocalized to form an <font color="#003380"><strong>electron cloud</strong></font>
 
-5\. Mixed bonding
+5\. Mixed bonding #Mixed_bonding
 - 일반적으로 mixed bonding type은 covalnet-ionic mixed bonding이다.
 - 수식 : %ionic character = $\left(1-e^{^{-\frac{\left(X_{A}-X_{B}\right)^2}{4}}}\right)x\left(100\%\right)$, $X_{A}\&X_{B}$는 두 원소의 전기 음성도
 
@@ -254,3 +254,7 @@
 21\. Atomic bonding in ceramics
 1\) Ceramics
 - 정의 : 세라믹은 원자 간 강한 이온 결합과 일부 공유 결합을 특징으로 가진다. 무기 비금속 물질의  한 종류이다.
+2\) [[Chapter 2. Theory of Structural Analysis#Mixed_bonding|Atomic Bonding in Ceramics]]
+- 결합들은 이온 또는 공유결합을 가질 수 있다
+- <font color="#003380"><strong>이때, 이온 결합은 원자들의 전기 음성도 차이에 따라 달라진다</strong></font>
+- 
