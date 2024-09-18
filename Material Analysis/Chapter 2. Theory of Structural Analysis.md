@@ -257,4 +257,9 @@
 2\) [[Chapter 2. Theory of Structural Analysis#Mixed_bonding|Atomic Bonding in Ceramics]]
 - 결합들은 이온 또는 공유결합을 가질 수 있다
 - <font color="#003380"><strong>이때, 이온 결합은 원자들의 전기 음성도 차이에 따라 달라진다</strong></font>
-- 
+- %ionic character = $\left(1-e^{^{-\frac{\left(X_{A}-X_{B}\right)^2}{4}}}\right)x\left(100\%\right)$, $X_{A}\&X_{B}$는 두 원소의 전기 음성도
+3\) Oxide structures
+- 산소 음이온은 금속 양이온들보다 크다
+- 산소 -> 격자에 closed packed되어 있다 (<font color="#003380"><strong>usually FCC</strong></font>)
+- 양이온들은 산소 이온 사이 간극 부위(interstitial site)에 들어맞는다(Octahedral)
+- 0.414<$\frac{r_{cation}}{r_{anion}}$ <0.732
