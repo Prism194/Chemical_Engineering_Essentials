@@ -6,4 +6,5 @@
 - fugacity 정의, 이는 화학포텐셜과 관련되며 상평형 및 화학반응평형 문제 분석에 적합
 - 과잉성질로 알려진 유용한 부류의 용액성질 소개, 이는 이상용액 모델로 통칭되는 용액 거동의 이상화와 연관되어 있다.
 10.1 기본적인 성질 관계식(Fundamental Property Relation)
-1\. 
+1\. 조성의 척도
+1\) mass fraction, mole fraction
