@@ -265,4 +265,4 @@
 - 0.414<$\frac{r_{cation}}{r_{anion}}$ <0.732
 
 22\. Crystal structure
-1\)
+1\) 
