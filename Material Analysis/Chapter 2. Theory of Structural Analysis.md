@@ -228,6 +228,7 @@
 
 20\. <font color="#ff0000"><strong>Factors that determine crystal structure - part 2</strong></font>
 1\) Coordination Number and Ionic Radii
+**cation radius 의 크기가 커짐에 따라 coordination number가 증가한다(주요 내용), 전제가 있어야 하지 않나**
 - coordination number는 $\frac{^{\gamma}cation}{^{\gamma}anion}$ 이 커짐에 따라 증가한다
 - stable structure 형성을 할 때, 양이온 음이온 반지름 비율과 coordination number, coordination geometry 간의 관계
 - ![[Pasted image 20240918212009.png|500]]
@@ -242,7 +243,7 @@
 - Determine minumum $\frac{^{\gamma}cation}{^{\gamma}anion}$ for an cubic site(C.N. = 6)
 - sol) minimum 비율을 구하기 위해서, 음이온과 양이온이 서로 완전히 fit한 경우를 생각하자
 - ![[Pasted image 20240918213015.png|500]]
-- cubic 구조의 경우, 정육면체의 대각선이 양이온, 음이온 반지름을 더한 값의 두 배이고, 각 변의 길이는 음이온 반지름의 두 배이다.
+- cubic 구조(즉, anion들이 cubic 구조로 구성되어 있음)의 경우, 정육면체의 대각선이 양이온, 음이온 반지름을 더한 값의 두 배이고, 각 변의 길이는 음이온 반지름의 두 배이다.
 - 피타고라스 정리를 사용해서 양이온과 음이온의 비율을 구할 수 있다.
 
 4\) example 3
