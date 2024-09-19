@@ -290,6 +290,13 @@ CsCl -> 반지름 비율이 다름 cubic site -> Cs는 cubic site에 존재, Ani
 
 23\. Crystal structure : Unit cell
 
-14 Bravais lattice(space lattice) -> crystal의 모든 공간 격자를 그릴 ㅅ
+14 Bravais lattice(space lattice) -> crystal의 모든 공간 격자를 그릴 수 있다.
 Cubic case : SC, BCC, FCC
 Hexagonal, orthorhombic...등은 각각 가지고 있는 서로 다른 bravais lattice가 각각 존재한다.
+
+e.g. CsCl : SC, NaCl : FCC, ZnS : FCC...
+
+24\. Silicate ceramics -> Si, O로 구성된물질, 
+0.414보다 작다 -> tetrahedral
+crystalline SiO2 -> Na+를 넣으면 noncrystalline(amorphous), 유리가 된다
+Si
