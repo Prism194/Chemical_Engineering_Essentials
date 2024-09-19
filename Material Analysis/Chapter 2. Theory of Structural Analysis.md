@@ -273,4 +273,9 @@ cation 자체의 배열 -> FCC, SC등으로 분포, 그 중간에 특정한 구�
 1\) Rock salt structure - Structure type AX
 e.g. NaCl, MgO, 
 비율 -> Na는 octahedral site에 위치, Anion packing은 FCC
-비율 -> octahedral -> FCC로 생각이 가능한가?
+질문 : 반지름 비율 -> octahedral -> FCC로 생각이 가능한가?
+
+CsCl -> 반지름 비율이 다름 cubic site -> Cs는 cubic site에 존재, Anion packing은 Simple cubic이어야 한다.
+
+2\) Rock salt structure - Structure type AX2
+
