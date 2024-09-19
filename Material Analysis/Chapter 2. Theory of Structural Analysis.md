@@ -303,4 +303,6 @@ SiO4로 구성 -> silicate,
 
 allotrope(동소체)
 - 서로 다른 structural forms or arrangemenets of the same element
-- 다이아몬드 : gemstone(단결정, 보석)
+- 다이아몬드 : gemstone(단결정, 보석), 3차원 구조로 공유결합을 하고 있다
+- 흑연 : 약한 반데르발스 힘으로 연결
+- 풀러린, 나노튜브, 그래핀 등
