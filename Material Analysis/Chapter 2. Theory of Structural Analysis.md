@@ -187,7 +187,7 @@
 1\) Linear density
 ![[Pasted image 20240917235113.png|400]]
 2\) example 1
-- find the lienar density of Al in \[110]direction, a = 0.405nm
+- find the linear density of Al in \[110]direction, a = 0.405nm
 - sol)
 	![[Pasted image 20240917235526.png|450]]
 3\) example 2
@@ -219,7 +219,7 @@
 3\) Relative sizes of ions
 - <font color="#003380"><strong>안정적 구조 형성 -> 이웃한 반대 이온의 숫자를 최대화한다.(질문)</strong></font>
 ![[Pasted image 20240918152106.png|400]]
--> 양이온이 너무 작으면 빈 공간을 제대로 채우지 못하고 불안정한 결정을 형성, 양이온이 음이온간의 빈 공간에 딱 맞거나, 조금 더 클 때 구조는 안정화 될 수 있다. 
+-> 양이온이 너무 작으면 빈 공간을 제대로 채우지 못하고 불안정한 결정을 형성, 양이온이 음이온간의 빈 공간에 딱 맞거나(attatch), 조금 더 클 때 구조는 안정화 될 수 있다. 
 - 결정의 원자 또는 이온 크기 -> 결정의 배열 및 packing 방법에 영향
 - 더 작은 원자는 더 좁은 공간에 들어갈 수 있어 더 작고 밀도가 높은 결정 구조를 만들 수 있다.  
 - 결정 구조는 빈 공간을 최소화(엔트로피 최소화, closed pack system 만들기 위해)하고 원자 packing 효율을 극대화(APF 극대화)해야 할 필요성에 의해 영향을 받을 수 있습니다
