@@ -263,3 +263,6 @@
 - 산소 -> 격자에 closed packed되어 있다 (<font color="#003380"><strong>usually FCC</strong></font>)
 - 양이온들은 산소 이온 사이 간극 부위(interstitial site)에 들어맞는다(Octahedral)
 - 0.414<$\frac{r_{cation}}{r_{anion}}$ <0.732
+
+22\. Crystal structure
+1\)
