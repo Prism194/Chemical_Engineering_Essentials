@@ -306,3 +306,12 @@ allotrope(동소체)
 - 다이아몬드 : gemstone(단결정, 보석), 3차원 구조로 공유결합을 하고 있다
 - 흑연 : 약한 반데르발스 힘으로 연결
 - 풀러린, 나노튜브, 그래핀 등
+
+25\. single crystals(처음부터 끝까지 완전히 periodic), poly crystal(grain 별로 periodic), amorphous solid
+- 자연계에는 polycrystal이 가장 많다
+- single crystal 을 사용해야 단단하다
+- polycrystal :  용접 결과 사진, grain size 분포
+
+26\. aniostropy(이방성)
+- elastic modulus -> 얼마만큼 힘을 줬을 때 부서지느냐(E), 방향에 따라 부서지는 힘이 다르다. 왜냐하면 single crystal이기 때문
+- line density가 다르다. 
