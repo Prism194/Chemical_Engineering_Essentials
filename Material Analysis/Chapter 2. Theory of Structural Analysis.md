@@ -278,4 +278,7 @@ e.g. NaCl, MgO,
 CsCl -> 반지름 비율이 다름 cubic site -> Cs는 cubic site에 존재, Anion packing은 Simple cubic이어야 한다.
 
 2\) Rock salt structure - Structure type AX2
-
+- Charge neutrality를 맞추고 시작
+- Cation : Cation, Anion 반지름 비율 계산 결과 -> Cubic site 결과가 나타남 -> Anion은 SC로 packing되어 있다. 
+- 그러나, 전체 box에서 절반의 box는 비어 있어야 한다. 
+- box의 구조들은 똑같다.
