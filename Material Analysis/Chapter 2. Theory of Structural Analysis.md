@@ -266,8 +266,11 @@ cation 자체의 배열 -> FCC, SC등으로 분포, 그 중간에 특정한 구�
 3\) Oxide structures
 - 산소 음이온은 금속 양이온들보다 크다
 - 산소 -> 격자에 closed packed되어 있다 (<font color="#003380"><strong>usually FCC</strong></font>)
-- 양이온들은 산소 이온 사이 간극 부위(interstitial site)에 들어맞는다(Octahedral)
+- 양이온들은 산소 이온 사이 간극 부위(interstitial site)에 octaheral site에 들어맞는다
 - 0.414<$\frac{r_{cation}}{r_{anion}}$ <0.732
 
 22\. Crystal structure
-1\) 
+1\) Rock salt structure - Structure type AX
+e.g. NaCl, MgO, 
+비율 -> Na는 octahedral site에 위치, Anion packing은 FCC
+비율 -> octahedral -> FCC로 생각이 가능한가?
