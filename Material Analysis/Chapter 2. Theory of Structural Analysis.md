@@ -299,4 +299,8 @@ e.g. CsCl : SC, NaCl : FCC, ZnS : FCC...
 24\. Silicate ceramics -> Si, O로 구성된물질, 
 0.414보다 작다 -> tetrahedral
 crystalline SiO2 -> Na+를 넣으면 noncrystalline(amorphous), 유리가 된다
-Si
+SiO4로 구성 -> silicate, 
+
+allotrope(동소체)
+- 서로 다른 structural forms or arrangemenets of the same element
+- 다이아몬드 : gemstone(단결정, 보석)
