@@ -284,5 +284,12 @@ CsCl -> 반지름 비율이 다름 cubic site -> Cs는 cubic site에 존재, Ani
 - box의 구조들은 똑같다.
 - cf. Anti florite : cation, anion의 위치가 대치되어있다
 3\) Perovskite, ABX3
+- 어떻게 반지름 비율을 계산하는가?
 - cation은 octahedral site 선호, anion-> FCC
 - anti perovskite : cation, anion의 위치가 대치되어있다
+
+23\. Crystal structure : Unit cell
+
+14 Bravais lattice(space lattice) -> crystal의 모든 공간 격자를 그릴 ㅅ
+Cubic case : SC, BCC, FCC
+Hexagonal, orthorhombic...등은 각각 가지고 있는 서로 다른 bravais lattice가 각각 존재한다.
