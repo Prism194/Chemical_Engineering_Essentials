@@ -249,8 +249,12 @@
 4\) example 3
 - Based on ionic radii, what crystal structure you predict for FeO?
 - ![[Pasted image 20240918213343.png|100]]
-- $\frac{r_{cation}}{r_{anion}}=\frac{0.077}{0.140}=0.550$, 표 값에  따라 coordinate number is 6이며, crystal structure는 octahedral이다(NaCL과 같다)
+- $\frac{r_{cation}}{r_{anion}}=\frac{0.077}{0.140}=0.550$, 표 값에  따라 coordinate number is 6이며, crystal structure는 octahedral이다(NaCl과 같다)
 - cf. $Na^{+}$ion은 octahedral site를 선호한다
+- Cl -> FCC구조로서 구성되어 있다. 
+
+cf. anion, cation간의 구조 -> octahedral, cubic으로 생각 가능
+cation 자체의 배열 -> FCC, SC등으로 분포, 그 중간에 특정한 구조(octahedral이던, cubic이던 배열 가능하다)
 
 21\. Atomic bonding in ceramics
 1\) Ceramics
