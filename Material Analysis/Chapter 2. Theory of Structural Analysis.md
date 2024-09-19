@@ -314,4 +314,10 @@ allotrope(동소체)
 
 26\. aniostropy(이방성)
 - elastic modulus -> 얼마만큼 힘을 줬을 때 부서지느냐(E), 방향에 따라 부서지는 힘이 다르다. 왜냐하면 single crystal이기 때문
-- line density가 다르다. 
+- line density가 다르다. (그림을 살펴보면 line density가 다르다는 것을 알 수 있다)
+27\. Isotropy(등방성)
+- polycrystal, 작은 grain들이 무작위로 배열되어 있다
+- 힘의 방향을 다르게 주더라도 부서지는 힘이 유사
+- 적절한 변형을 통해서 anistropic하게 변화시킬 수 있다. 
+둘의 차이 -> 방향에 따른 물리적 특성 차이, 단 isotropy -> anistropy로 바꿀 수 있다. 
+모든 물질이 iso
