@@ -30,5 +30,5 @@ ideal solution -> residual property -> Z, second virial -> effective한지 확�
 수식 : 깁스 값에 대한 단순 편미분
 S10. M, ME, MR 모두 여러 thermodynamic property에 대한 관계가 동일. 값이 다름
 S11. Excess properties for 6 systems
-500J -> 큰 일의 값(10J만 넘어도 큰 값)
-각각의 개형이 서로 다르게 나타나며, 대칭적이지 않은 경우도 존재(A dominant, B minor)
+500J -> 큰 일의 값(10J만 넘어도 큰 값) -> ideal로만 계산하면 오차가 크게 발생할 수 있다.
+각각의 개형이 서로 다르게 나타나며, 대칭적이지 않은 경우도 존재(A dominant, B minor와 그 반대는 서로 다른 상호작용을 일으킬 수 있다.)
