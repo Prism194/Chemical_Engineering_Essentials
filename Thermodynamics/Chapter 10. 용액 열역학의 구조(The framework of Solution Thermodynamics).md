@@ -8,3 +8,8 @@
 10.1 기본적인 성질 관계식(Fundamental Property Relation)
 1\. 조성의 척도
 1\) mass fraction, mole fraction
+
+
+10.8
+S2. 고체, 액체, 기체(얼음, 물, 수증기)의 고유한 물성이 달라졌는가? -> H2O의 공유결합은 여전히 존재할 것이다
+idea
