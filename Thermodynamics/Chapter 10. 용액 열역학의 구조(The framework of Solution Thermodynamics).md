@@ -25,3 +25,7 @@ M : Any Effective thermodynamic properties(V, U, H, S, G, etc)
 S8. Relating Excess and Residual properties
 둘을 왜 연결시키는가? residual property가 더 쉽게 계산 가능하기 때문
 residual property -> Z값 integration 또는 second virial가지고 계산
+S9. 
+ideal solution -> residual property -> Z, second virial -> effective한지 확인 -> residual property 결정 이후, excess property결정
+수식 : 깁스 값에 대한 단순 편미분
+S10. M, ME, MR 모두 여러 thermodynamic property에 대한 관계가 동일. 
