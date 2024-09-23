@@ -39,3 +39,9 @@ Laplace 사용?
 
 열역학 기초, 미분방정식
 
+S16 Diffusion in Liquid
+solute solvent interaction 
+일반적으로 liquid mass diffusivity << gas mass diffusivity
+ionic liquid -> difficult to simplify those equations
+non-ionic liquid -> wilke-chang eqn 사용
+myu : viscosity of solvent, association param
