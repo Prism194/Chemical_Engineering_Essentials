@@ -54,4 +54,13 @@ S17. capillary pore
 - *내가 보기에는 한글 책을 사서 봐야 할 것 같음*
 
 S18. Solid Mass Diffusivity
-- 
+- vacancy와 interstitial간의 차이를 확인
+- vacancy보다 intersitital이 less lattice
+- 그래서 crystalline nature of solid에 따라 다르다.
+
+S19. convective Mass transfer
+- heat, mass transfer analogy
+- Newton's cooling equation이 유사하게 mass transfer에도 적용된다.
+
+S20
+- Gas, liquid site, Gas absorption, Liquid stripping, opera
