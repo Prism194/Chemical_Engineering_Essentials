@@ -32,4 +32,10 @@ conduction에 의해서 stainless 내, 외에서 열이 전달됨. 밖으로 나
 a. maximum temperature : in the center, 
 b. interface
 poisson equation(steady state이고, energy source 존재)
+미분방정식 풀이를 해서 문제 풀이...
+c. 
+Laplace 사용? 
+2번 미분된 상태, 
+
+열역학 기초, 미분방정식
 
