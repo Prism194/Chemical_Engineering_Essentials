@@ -44,4 +44,14 @@ solute solvent interaction
 일반적으로 liquid mass diffusivity << gas mass diffusivity
 ionic liquid -> difficult to simplify those equations
 non-ionic liquid -> wilke-chang eqn 사용
-myu : viscosity of solvent, association param
+myu : viscosity of solvent, association parameter가 pi
+water -> polar solvent, can interaction wiht various things
+
+S17. capillary pore
+- two correction factor 
+- stearic partition coefficient
+- hydrodynamic hindrance factor
+- *내가 보기에는 한글 책을 사서 봐야 할 것 같음*
+
+S18. Solid Mass Diffusivity
+- 
