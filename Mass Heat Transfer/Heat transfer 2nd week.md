@@ -1,1 +1,0 @@
-S20. knudsen diffusion, 공식 내용 암기 : D_ㅏ
