@@ -18,7 +18,10 @@ S5. 과거에 배운 내용과 유사, ig가 id로 바뀐 것 뿐
 S6. Lewis/Randall rule, 
 
 10.9
-S7. Excess property
-ME : only meaningful for Ideal solution(Mixture), Mid :
-MR : Effective for both Mixture & Pure species
+S7. Excess properties
+ME : only meaningful for Ideal solution(Mixture), Mid : ideal solution
+MR : Effective for both Mixture & Pure species, Mig : ideal gas
 M : Any Effective thermodynamic properties(V, U, H, S, G, etc)
+S8. Relating Excess and Residual properties
+둘을 왜 연결시키는가? residual property가 더 쉽게 계산 가능하기 때문
+residual property -> Z값 integration 또는 second virial가지고 계산
