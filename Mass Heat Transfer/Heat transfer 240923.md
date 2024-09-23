@@ -21,4 +21,11 @@ fourier field eqn
 steady state, poisson : steady state with energy source, laplace :steady state without energy source
 
 S5. Fourier Field Eqns. in Different Coordinates
-rectangular(직교) cylindrical,
+rectangular(직교) cylindrical, spherical coordinates
+-> 여기서는 오직 1차원 방향에 대해서의 열 전도를 다룸(rectengular, cylindrical, spherical -> first term만 사용, 확인 필요)
+
+S6. Boundary conditions
+길이, temperature difference를 안다, k값을 알면, 열의 이동량 측정 가능
+
+S7. example p.208에 존재
+conduction에 의해서 열이
