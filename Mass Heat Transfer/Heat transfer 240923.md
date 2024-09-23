@@ -51,7 +51,6 @@ S17. capillary pore
 - two correction factor 
 - stearic partition coefficient
 - hydrodynamic hindrance factor
-- *내가 보기에는 한글 책을 사서 봐야 할 것 같음*
 
 S18. Solid Mass Diffusivity
 - vacancy와 interstitial간의 차이를 확인
@@ -62,5 +61,11 @@ S19. convective Mass transfer
 - heat, mass transfer analogy
 - Newton's cooling equation이 유사하게 mass transfer에도 적용된다.
 
-S20
-- Gas, liquid site, Gas absorption, Liquid stripping, opera
+S20. convective mass transfer
+- Gas, liquid site, Gas absorption, Liquid stripping, operational mode in chemical process.
+- liquid film -> molecular diffusion으로 정의할 수 있다
+
+실질적으로 사용되는 식들이 존재할 것. 이들을 이용하여 문제들을 풀어보자.
+
+1 = 
+
