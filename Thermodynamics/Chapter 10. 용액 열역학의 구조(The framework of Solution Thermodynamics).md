@@ -16,3 +16,9 @@ ideal gas to ideal solution, y를 x로 표현, 고체는 z
 S4. partial ideal entalphy -> total entalphy, summability relation도 마찬가지로 사용 가능하다. bar : partial
 S5. 과거에 배운 내용과 유사, ig가 id로 바뀐 것 뿐
 S6. Lewis/Randall rule, 
+
+10.9
+S7. Excess property
+ME : only meaningful for Ideal solution(Mixture), Mid :
+MR : Effective for both Mixture & Pure species
+M : Any Effective thermodynamic properties(V, U, H, S, G, etc)
