@@ -13,4 +13,6 @@
 10.8
 S2. 고체, 액체, 기체(얼음, 물, 수증기)의 고유한 물성이 달라졌는가? -> H2O의 공유결합은 여전히 존재할 것이다
 ideal gas to ideal solution, y를 x로 표현, 고체는 z
-S4. partial entalphy -> total entalphy, 
+S4. partial ideal entalphy -> total entalphy, summability relation도 마찬가지로 사용 가능하다. bar : partial
+S5. 과거에 배운 내용과 유사, ig가 id로 바뀐 것 뿐
+S6. Lewis/Randall rule, 
