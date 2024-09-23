@@ -28,4 +28,8 @@ S6. Boundary conditions
 길이, temperature difference를 안다, k값을 알면, 열의 이동량 측정 가능
 
 S7. example p.208에 존재
-conduction에 의해서 열이
+conduction에 의해서 stainless 내, 외에서 열이 전달됨. 밖으로 나가서는 convection
+a. maximum temperature : in the center, 
+b. interface
+poisson equation(steady state이고, energy source 존재)
+
