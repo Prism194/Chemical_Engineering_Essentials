@@ -28,4 +28,7 @@ residual property -> Z값 integration 또는 second virial가지고 계산
 S9. 
 ideal solution -> residual property -> Z, second virial -> effective한지 확인 -> residual property 결정 이후, excess property결정
 수식 : 깁스 값에 대한 단순 편미분
-S10. M, ME, MR 모두 여러 thermodynamic property에 대한 관계가 동일. 
+S10. M, ME, MR 모두 여러 thermodynamic property에 대한 관계가 동일. 값이 다름
+S11. Excess properties for 6 systems
+500J -> 큰 일의 값(10J만 넘어도 큰 값)
+각각의 개형이 서로 다르게 나타나며, 대칭적이지 않은 경우도 존재(A dominant, B minor)
