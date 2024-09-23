@@ -13,5 +13,12 @@ dell operator(다수의 영향 요소들)
 capital pi : dissipation work? -> 이해 필요
 유체가 일을 하는 것, 받는 것을 기준으로 전자가 +, 후자가 -, viscosity가 높으면, 그 만큼의 energy를 내놓아야 한다.
 
-S4. 
-I. incompressible fluid 
+S4. differential equation의 서로 다른 forms
+II. Isobaric flow + w/o energy source + const k -> 왼쪽은 partial, 오른쪽은 geometrical. control volume이 변화하지 않음?
+III. No fluid motion
+const k, alpha = k/rho, Cp = thermal diffusivity
+fourier field eqn
+steady state, poisson : steady state with energy source, laplace :steady state without energy source
+
+S5. Fourier Field Eqns. in Different Coordinates
+rectangular(직교) cylindrical,
