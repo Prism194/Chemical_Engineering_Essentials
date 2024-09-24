@@ -140,4 +140,10 @@ $$F=2-\pi+N$$
 - dQ = 0, (3.16), (3.18) 은 각각 0
 - $\frac{dT}{T}=-\frac{R}{C_{V}^{ig}}\frac{dV^{ig}}{V^{ig}}$
 	->$\frac{T_2}{T_1}=\left(\frac{V_1^{ig}}{V_2^{ig}}\right)^{\frac{R}{C_{V}^{ig}}}$ 
-	-> $\frac{T_2}{T_1}=\left(\frac{P_2}{P_1}}\right)^{\frac{R}{C_{V}^{ig}}}$ 
+	-> $\frac{T_2}{T_1}=\left(\frac{P_2}{P_1}\right)^{\frac{R}{C_{P}^{ig}}}$ 
+- 정의 : $\gamma=\frac{C_{P}^{ig}}{C_{V}^{ig}}$ 
+- 이로부터, $T\left(V^{ig}\right)^{\gamma-1},TP^{\frac{\left(1-\gamma\right)}{\gamma}},P\left(V^{ig}\right)^{\gamma}$ 는 모두 일정하다고 볼 수 있다
+
+
+- 또한 $dW=dU=C_{V}^{ig}dT$ 이고, $W=\Delta U^{ig}=C_{V}^{ig}\Delta T$이다.
+- 이로부터
