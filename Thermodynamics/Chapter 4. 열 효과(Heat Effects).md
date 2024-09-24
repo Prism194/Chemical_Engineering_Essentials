@@ -13,8 +13,12 @@
 - Chapter 3의 [[Chapter 3. 순수한 유체의 부피 성질(Volumetric Properties of Pure fluids)#상률|상률]]에서 배운 바를 적용하면, 어떤 계가 일정한 조성을 가지는 물질이라면, 2가지 세기 성질들의 값이 정해지면 그 계의 상태가 결정된다. 
 - 따라서, 어떤 계의 상태는 두 개의 다른 상태변수의 함수로 나타내어진다.
 2\) 비내부에너지(몰당 내부에너지) 예시
-- $dU=\left(\frac{\partial U}{\partial T}\right)_{V}dT+\left(\frac{\partial U}{\partial V}\right)_{T}dV$
+- $dU=\left(\frac{\partial U}{\partial T}\right)_{V}dT+\left(\frac{\partial U}{\partial V}\right)_{T}dV$, U(V, T)
 - 이때 두 번째 항은, 임의의 닫힌 계에 대한 일정부피 공정일 때, 또는 이상기체 상태 및 비압축성 액체라서 부피가 내부에너지와 무관할 때(이상기체의 경우 분자들의 자체적인 부피가 없다고 가정하였고, 비압축성 기체는 말 그대로 부피가 변화하지 않으니) 0이 된다.
 - $dU=C_{V}dT,\Delta U=\int_{T_1}^{T_2}C_{V}dT$이다. 만약 역학적으로 가역인 일정부피 공정일 경우, Q = $\Delta U$로 둘 수 있을 것이다. => 이것은 Chapter 2에서 서술한 것과 합치한다.
 3\) 비엔탈피(몰당 엔탈피) 예시
-
+- $dU=\left(\frac{\partial H}{\partial T}\right)_{P}dT+\left(\frac{\partial H}{\partial P}\right)_{T}dP$, H(P, T)
+- 두 번째 항은, 임의의 닫힌 계에 대한 일정압력 공정일 때, 또는 이상기체 상태 및 저압 및 고온의 실제 기체들이라 압력과 엔탈피가 무관할 때 0이 된다.
+- $dH=C_{P}dT,\Delta H=\int_{T_1}^{T_2}C_{P}dT$이다. 만약 역학적으로 가역이고 일정압력의 닫힌 계 공정 & 포텐셜에너지와 운동에너지가 무시될 수 있으며 Ws가 0이라면 Q = $\Delta H$이다.
+2\. 열용량의 온도 의존성
+- 수식 : $\frac{C_{P}}{R}=A+BT+CT^2+DT^{-2}$ 
