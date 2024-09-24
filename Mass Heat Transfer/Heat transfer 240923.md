@@ -65,7 +65,15 @@ S20. convective mass transfer
 - Gas, liquid site, Gas absorption, Liquid stripping, operational mode in chemical process.
 - liquid film -> molecular diffusion으로 정의할 수 있다
 
+24.2 문제
 실질적으로 사용되는 식들이 존재할 것. 이들을 이용하여 문제들을 풀어보자.
+![[Pasted image 20240923153208.png]]
+$\frac{1}{D_{AB}}$에서, 1 = $1-\alpha y_{A}=1$, 1인 이유는 yA 가 0에 가까워서(dilute)
 
-1 = 
+
+1 micrometer diameter -> very large than molecule
+-> molecule Diffusion이 DAE에 가까움
+반대라면 DKA가 DAE에 가까움
+
+예제들 및 연습문제들이 시험 문제로 사용된다.
 
