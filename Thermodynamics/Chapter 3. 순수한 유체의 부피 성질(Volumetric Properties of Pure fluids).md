@@ -106,7 +106,7 @@ $$F=2-\pi+N$$
 - [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#엔탈피의_정의|엔탈피의 정의]]에 따라, H = U + PV = U(T) + RT = H(T)(3.10)이다. 즉 엔탈피도 온도만의 함수가 된다.
 - [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#정압_열용량|정압 열용량의 정의]]에 따라서도 마찬가지로 몰 부피를 무시하여 온도만의 함수가 된다.
 - $C_{P^{}}^{ig}=\left(\frac{\partial H^{ig}}{\partial T}\right)_{P}=\frac{dH^{ig}\left(T\right)}{dT}=C_{P}^{ig}\left(T\right)$ 
-- [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#내부에너지와_정적_열용량|내부에너지와 정적 열용량]]의 관계에 의해서, (3.10) 미분 결과 $C_{P}^{ig}=\frac{dH^{ig}}{dT}=\frac{dU^{ig}}{dT}+R=C_{V}^{ig}+R$이다. 
+- [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#내부에너지와_정적_열용량|내부에너지와 정적 열용량]]의 관계에 의해서, (3.10) 미분 결과 $C_{P}^{ig}=\frac{dH^{ig}}{dT}=\frac{dU^{ig}}{dT}+R=C_{V}^{ig}+R$이다. (3.12)
 	의미 : 이상기체 상태에서 정적, 정압 열용량은 그 차이가 R과 같으면서, 온도에 따라 값들이 변한다.
 2\) 이상기체에서 내부에너지와 엔탈피 변화 계산 방법
 - [[Chapter 2. 제 1법칙과 기타 기본개념들(The first law and Other Basic concepts)#공정_관계성|일정부피, 일정압력에서 계산한 내부에너지, 엔탈피 변화 식]] 과 같이, $dU=C_{V}dT$, $\Delta U=\int_{T_1}^{T_2}C_{V}dT$ $dH=C_{P}dT$, $\Delta H=\int_{T_1}^{T_2}C_{P}dT$ 로 서술 가능하다. (3.13), (3.14)
