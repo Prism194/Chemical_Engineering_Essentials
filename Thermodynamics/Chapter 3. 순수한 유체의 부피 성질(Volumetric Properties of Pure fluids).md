@@ -146,5 +146,13 @@ $$F=2-\pi+N$$
 
 
 - 또한 dU = dQ + dW에서, dQ = 0이기 때문에 $dW=dU=C_{V}^{ig}dT$ 이고, $W=\Delta U^{ig}=C_{V}^{ig}\Delta T$이다.
-- Cv를 대신하면, 다음과 같이 쓸 수 있다. : $W=\frac{R\Delta T}{\gamma-1}=\frac{RT_2-RT_1}{\gamma-1}=\frac{P_2V^{ig}-P_1V_1^{ig}}{\gamma-1}=\frac{P_1V_1^{ig}}{\gamma-1}\left\lbrack\left(\frac{P_2}{P_1}^{\frac{\gamma-1}{\gamma}}\right)-1\right\rbrack$
-- 
+- Cv를 대신하면, 다음과 같이 쓸 수 있다. : $W=\frac{R\Delta T}{\gamma-1}=\frac{RT_2-RT_1}{\gamma-1}=\frac{P_2V^{ig}-P_1V_1^{ig}}{\gamma-1}=\frac{P_1V_1^{ig}}{\gamma-1}\left\lbrack\left(\frac{P_2}{P_1}^{\frac{\gamma-1}{\gamma}}\right)-1\right\rbrack$ -> 마지막 거듭제곱 항은 P2/P1 전체에 대한 거듭제곱이다.
+
+5\) 비가역공정
+- 이상적인 상태에서, $dU^{ig},dH^{ig},\Delta U^{ig},\Delta H^{ig}$는 공정에 관계없이 유효하다. 이들은 상태함수이기 때문이다
+- 그러나 Q, W는 경로함수이기 때문에 공정을 고려해야 한다.
+- 비가역공정에 대한 일 계산 : 역학적으로 가역인 공정에 대한 일을 결정하고, 이를 효율을 곱하거나 나누어줘서 실제의 나오는/ 들어가는 일을 구한다. 
+- 언제 나누고 언제 곱하는가 : 일이 나오면 곱해주고, 일을 들여보내면 나눠준다. 
+
+3.4 비리얼 상태 방정식
+1\. 이상기체 온도; 보편 기체상수
