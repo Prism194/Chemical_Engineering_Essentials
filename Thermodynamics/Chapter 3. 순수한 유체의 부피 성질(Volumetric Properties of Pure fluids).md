@@ -145,5 +145,6 @@ $$F=2-\pi+N$$
 - 이로부터, $T\left(V^{ig}\right)^{\gamma-1},TP^{\frac{\left(1-\gamma\right)}{\gamma}},P\left(V^{ig}\right)^{\gamma}$ 는 모두 일정하다고 볼 수 있다
 
 
-- 또한 $dW=dU=C_{V}^{ig}dT$ 이고, $W=\Delta U^{ig}=C_{V}^{ig}\Delta T$이다.
-- 이로부터
+- 또한 dU = dQ + dW에서, dQ = 0이기 때문에 $dW=dU=C_{V}^{ig}dT$ 이고, $W=\Delta U^{ig}=C_{V}^{ig}\Delta T$이다.
+- Cv를 대신하면, 다음과 같이 쓸 수 있다. : $W=\frac{R\Delta T}{\gamma-1}=\frac{RT_2-RT_1}{\gamma-1}=\frac{P_2V^{ig}-P_1V_1^{ig}}{\gamma-1}=\frac{P_1V_1^{ig}}{\gamma-1}\left\lbrack\left(\frac{P_2}{P_1}^{\frac{\gamma-1}{\gamma}}\right)-1\right\rbrack$
+- 
