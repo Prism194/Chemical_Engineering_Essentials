@@ -189,5 +189,6 @@ $dH=dU+d\left(PV\right),\Delta H=\Delta U+\Delta\left(PV\right)$ -> 1mol 에 대
 - 정상상태 흐름 공정 : 대상 부피 내부 조건들이 시간에 따라 변하지 않는 공정
 - $\Delta H+\frac{\Delta\mu^2}{2}+g\Delta z=Q+W_{s}$
 - 운동 및 포텐셜 에너지 항을 무시하면, $\Delta H=Q+W_{s}$
-- 
+
+애초에 정적 열용량, 정압 열용량을 그렇게 설정했으니까 당연히 적분하면 그렇게 되지
 
