@@ -20,3 +20,6 @@ S8.
 S9. 
 - subcooled liquid, 액체가 기체가 되기 시작하는 점이 bubble point, dew point는 그 반대. 
 - 2번 라인은 Tie line이라 하며, 두 가지 상이 공존할 때 두 가지의 비율을 구할 때 결정한다.
+S10. 단면 -> 왜 0과 1에서 완전히 존재하지 않는가 -> critical point가 있기 때문에 제한됨
+S11. 점선 영역 아래는 기체일 것 -> 점선이 오른쪽에 형성된 경우, 그 근처는 기체로 되어 있을 것
+S12. critical locus : critical point들을 이은 것
