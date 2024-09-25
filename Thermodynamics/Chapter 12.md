@@ -15,3 +15,8 @@ S6. VLE : vapor liquid equilibrium
 S7. phase는 영역으로 존재, 그림 확인, 2번, 3번 라인 사이는 액체와 기체가 공존하는 영역
  - 1개의 phase를 가진 것은 한 point에서 상 변화, 그 point자체는 주변 환경에 따라 변화 가능
 - phase가 섞인 것은 상 변화가 일어나는 영역이 함께 존재(즉 특정 영역에 도달하면 조성이 서로 달라짐)
+S8. 
+2번 칸 : saparation이 가능하다 -> 두 상이 함께 존재
+S9. 
+- subcooled liquid, 액체가 기체가 되기 시작하는 점이 bubble point, dew point는 그 반대. 
+- 2번 라인은 Tie line이라 하며, 두 가지 상이 공존할 때 두 가지의 비율을 구할 때 결정한다.
