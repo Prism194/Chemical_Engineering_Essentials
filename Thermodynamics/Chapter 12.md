@@ -10,3 +10,6 @@ S5. 사진 참조, Duhem's Theorem : Nv-NE = 2, 2의 의미는 무엇인가? int
 - 어떤 closed system이던 간에, 2개의 독립변수가 결정되면 평형 상태는 완전히 결정된다
 S6. VLE : vapor liquid equilibrium
 - 왜 Nv-NE = 2가 아니라, 2-pi+N인가 -> 양이라는 변수가 없기 때문(녹음 내용 참조)
+- single phase를 알기 위해 3가지만 알면 된다.(조성, 온도, 압력)
+- 양에 대해서는 이야기 안함 -> 그래서 Gibbs phase rule을 쓰고 있다.(조성은 양이 아니라 비율이다)
+S7. phase는 영역으로 존재
