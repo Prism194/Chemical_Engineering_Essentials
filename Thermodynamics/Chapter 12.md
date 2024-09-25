@@ -28,4 +28,6 @@ S14, S15. B to D -> liquid -> 공존 -> vapor
 F to G to H :
 - 액체 -> 액체, 기체 공존 -> 액체(G point) -> 액체, 기체 공존 -> 기체, 압력을 낮추는데 응축이 일어났다는 것 => Retrograde condensation
 - 저온에서 응축을 하고 싶을 때 등에 사용 가능, diagram을 보고 판단 가능
-S17. 
+S17. 점선 -> 큰 의미 x
+- b그림 -> 중간 점(azrotrope) 에서는 phase가 바로 전환되는 지점
+- 
