@@ -14,5 +14,6 @@
 
 2\. 간단한 열전달에 대한 제 2법칙의 적용
 1\)엔트로피로 열이 온도가 높은 곳에서 낮은 곳으로 흐르는지 증명하자
-- $T_{H},T_{C,}\left(T_{H}>T_{C}\right)$인 두 열 저장고를 생각해 보자. 이 둘 사이에서 열이 흐를 때, Qh와 Qc의 방향은 서로 반대일 것이다. 
-- 따라서, $\Delta S_{total}=\Delta S_{H}^{t}+\Delta S_{C}^{t}=-\frac{Q_{C}}{T_{H}}+\frac{Q_{C}}{T_{C}}=Q_{C}\left(\frac{T_{H}-T_{C}}{T_{H}T_{C}}\right)$ 
+- $T_{H},T_{C,}\left(T_{H}>T_{C}\right)$인 두 열 저장고를 생각해 보자. 이 둘 사이에서 열이 흐를 때, Qh와 Qc의 방향은 서로 반대이며, H에서 열을 잃으므로 
+- 따라서, $\Delta S_{total}=\Delta S_{H}^{t}+\Delta S_{C}^{t}=\frac{Q_{H}}{T_{H}}+\frac{Q_{c}}{T_{C}}=-\frac{Q_{C}}{T_{H}}+\frac{Q_{C}}{T_{C}}=Q_{C}\left(\frac{T_{H}-T_{C}}{T_{H}T_{C}}\right)$ 
+- $\Delta S_{total}>0,Q_{C}\left(T_{H}-T_{C}\right)>0$ 열전달 과정이 비가역적이므로, 엔트로피 변화는 0보다 크다. 그리고 따라서 Th >Tc이다.
