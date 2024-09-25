@@ -23,3 +23,7 @@ S9.
 S10. 단면 -> 왜 0과 1에서 완전히 존재하지 않는가 -> critical point가 있기 때문에 제한됨
 S11. 점선 영역 아래는 기체일 것 -> 점선이 오른쪽에 형성된 경우, 그 근처는 기체로 되어 있을 것
 S12. critical locus : critical point들을 이은 것
+- 각각의 line들은 composition
+S14. B to D -> liquid -> 공존 -> vapor
+F to G to H : F는 saturated vapor, 이를 감압하면, G라는 point에 도달,  0.2 composition을 가질 경우, 다시 기체가 된다
+- 액체 -> 액체, 기체 공존 -> 액체(G point) -> 액체, 기체 공존 -> 기체, 압력을 낮추는데 응축이 일어났다는 것
