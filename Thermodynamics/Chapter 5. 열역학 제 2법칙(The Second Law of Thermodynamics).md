@@ -128,4 +128,7 @@
 1\. 가정
 - 열역학 과정이 완전히 가역적 -> 이상적
 2\. 유도
-- $\Delta\left(S\dot{m}\right)_{fs}-\frac{\dot{Q}}{T_{\sigma}}=0,\dot{Q}=T_{\sigma}\Delta\left(S\right)_{fs}$, 가역적이면 Q/T와 $\Delta S$가 같으므로 이 식은 다
+- $\Delta\left(S\dot{m}\right)_{fs}-\frac{\dot{Q}}{T_{\sigma}}=0,\dot{Q}=T_{\sigma}\Delta\left(S\right)_{fs}$, 가역적이면 Q/T와 $\Delta S$가 같으므로 이 식은 당연(mdot, Qdot이 들어간 이유는 질량을 고려하기 위함)
+- $\Delta H+\frac{\Delta\mu^2}{2}+g\Delta z=Q+W_{s}$에 Q값 도입 가능, 이때 화학공정에서는 운동에너지, 포텐셜 에너지 항은 무시 가능하므로, 
+- $\dot{W_ideal}=\Delta\left(H\dot{m}\right)_{fs}-T_{\sigma}\left(S\dot{m}\right)_{fs}$ , $W_{ideal}=\Delta H-T_{\sigma}S$ 
+3\. 
