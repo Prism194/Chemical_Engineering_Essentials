@@ -111,4 +111,9 @@
 - $dU=dQ_{rev}-PdV,dH=dU+PdV+VdP$, $dQ_{rev}=dH-VdP$(dU 소거)
 - 이상기체 상태일 때, $dH^{ig}=C_{p}^{ig}dT,V^{ig}=\frac{RT}{P}$
 - 따라서, $\frac{dQ_{rev}}{T}=C_{P}^{ig}\frac{dT}{T}-R_{}\frac{dP}{P}$,
-- 양변을 R로 나누고 적분하면, 
+- 양변을 R로 나누고 적분하면, $\frac{\Delta S^{ig}}{R}=\int_{T_0}^{T}\frac{C_{P}^{ig}}{R}\frac{dT}{T}-\ln\frac{P}{P_0}$
+3\. 결론
+- 이 유도는 비록 가역인 과정에서 유도되었으나, 5.4에서 밝혔듯, 과정 자체가 비가역적이어도 이 식을 쓸 수 있다.
+- 단 이상기체라는 가정은 필요하다
+
+5.6 열린 계에 대한 엔트로피 수지
