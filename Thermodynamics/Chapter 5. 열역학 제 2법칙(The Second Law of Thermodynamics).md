@@ -131,4 +131,13 @@
 - $\Delta\left(S\dot{m}\right)_{fs}-\frac{\dot{Q}}{T_{\sigma}}=0,\dot{Q}=T_{\sigma}\Delta\left(S\right)_{fs}$, 가역적이면 Q/T와 $\Delta S$가 같으므로 이 식은 당연(mdot, Qdot이 들어간 이유는 질량을 고려하기 위함)
 - $\Delta H+\frac{\Delta\mu^2}{2}+g\Delta z=Q+W_{s}$에 Q값 도입 가능, 이때 화학공정에서는 운동에너지, 포텐셜 에너지 항은 무시 가능하므로, 
 - $\dot{W_ideal}=\Delta\left(H\dot{m}\right)_{fs}-T_{\sigma}\left(S\dot{m}\right)_{fs}$ , $W_{ideal}=\Delta H-T_{\sigma}S$ 
-3\. 
+3\. 열역학적 효율
+1\) 이상적인 일의 도입 목적
+- 이상적인 일을 얻기 위해 도입된 가상의 가역공정과 실제 공정 사이의 단 하나의 관련성은, 이 둘이 모두 동일한 상태변화에 적용된다는 것이다.
+- 이상적 일은 우리가 얻은 실제적 일에 비교하는 데 사용되는 것이다.
+2\) 열역학적 효율
+- 소요되는 일 : $\eta_{t}=\frac{W_{ideal}}{W_{s}}$, Wideal이 소요되는 일이 더 작을 것이므로
+- 생성되는 일 : $\eta_{t}=\frac{W_{s}}{W_{ideal}}$ , Wideal이 생성되는 일이 더 많을 것이므로
+
+5.8 손실된 일
+1\. 정의 및 윧
