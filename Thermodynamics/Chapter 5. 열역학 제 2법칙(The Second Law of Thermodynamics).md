@@ -34,3 +34,8 @@
 4\) 열기관이 완전히 비효율적(W=0) 또는 과정이 모두 가역적($\Delta S_{total}=0$)
 - W=0 : $\Delta S_{total}=-Q_{C}\left(\frac{T_{H}-T_{C}}{T_{H}T_{C}}\right)$, 
 - $\Delta S_{total}=0$ : $W=Q_{C}\left(\frac{T_{H}}{T_{C}}-1\right)$
+	-> carnot 기관 : 완전히 가역적으로 작동하는 열기관
+
+4\. carnot 기관의 열효율
+<font color="#003380"><center><strong>순환적으로 작동되며, 저장고에서 열을 추출하고 같은 양의 일을 수행하는 것 이외에 계와 외부에서 어떠한 효과도 생성하지 않는 열기관을 구성하는 것은 불가능하다.</strong></center></font> 
+=> 다시 말해서, QH만큼의 일을 할 수 없고, Qc는 반드시 존재한다는 것이다.
