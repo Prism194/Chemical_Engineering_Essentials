@@ -92,3 +92,6 @@
 	-> 이상기체 상태 성질 : 실제 분자구조는 반영하나, 분자 간 상호작용 무시
 	-> 잔류성질 : 분자 상호작용 보정
 2\. 잔류성질을 계산하기 위한 식 전개
+1\) Gibbs 에너지에 대한 잔류성질 유도
+-  $\frac{V^{R}}{RT}=\left\lbrack\frac{\partial\left(\frac{G^{R}}{RT}\right)}{\partial P}\right\rbrack_{T}$(6.42)이와 같이 잔류성질은 그냥 R첨자만 붙이면 된다
+- T는 일정하다고 두면, , $\left(\frac{G^{R}}{RT}\right)_{P=0}=J$라고 두면
