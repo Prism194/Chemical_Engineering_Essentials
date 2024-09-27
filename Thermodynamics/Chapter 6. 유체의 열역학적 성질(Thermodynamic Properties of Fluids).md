@@ -78,4 +78,14 @@
 - 이 식은 무차원이다
 - 기존 깁스 에너지의 미분꼴과 달리, 엔탈피가 나타나고 있어 사용하기 편리하다
 2\) 실제 V, H값 표현 by Gibbs 에너지
+- d(G/RT)에 대한 식을 응용하면, 다음 식이 나온다. $\frac{V}{RT}=\left\lbrack\frac{\partial\left(\frac{G}{RT}\right)}{\partial P}\right\rbrack_{T},\frac{H}{RT}=-T\left\lbrack\frac{\partial\left(\frac{G}{RT}\right)}{\partial T}\right\rbrack_{P}$ 
+- 이는 H, V에 대한 직접적인 표현이다.
+- 이 식들을 응용해서 S, U에 대한 식도 결정 가능하다
+3\) 생성함수로서의 Gibbs 에너지
+<font color="#003380"><strong><center>Gibbs 에너지가 정준변수인 T, P의 함수로 주어지면, 간단한 수학적 연산을 통해 다른 열역학적 성질들에 대한 생성함수로서의 역할을 한다.</center></strong></font>
+- cf. Helmholtz 에너지 역시 비슷한 일을 할 수 있다
+
+6.2 잔류성질(resid)
+1\. 정의
+- $M^{R}=M-M^{ig}$
 - 
