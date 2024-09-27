@@ -65,5 +65,10 @@
 - 이는 부피 팽창률과 등온 압축률에 대한 식으로 나타낼 수 있다
 	-> $\left(\frac{\partial U}{\partial P}\right)_{T}=\left(-\beta T+\kappa P\right)V$
 2\) T와 V의 함수로서의 내부에너지와 엔트로피
-- dU, dS를 T와 V에 대해 미분하면 
-$dU=C_{V}dT+\left\lbrack T\left(\frac{\partial P}{\partial T}\right)_{V}-P\right\rbrack dV$ , $dS=C_{V}\frac{dT}{T}+\left(\frac{\partial P}{\partial T}\right)_{V}dV$
+- dU, dS를 T와 V에 대해 미분하면 $dU=\left(\frac{\partial U}{\partial T}\right)_{V}dT+\left(\frac{\partial U}{\partial V}\right)_{T}dV$ $dS=\left(\frac{\partial S}{\partial T}\right)_{V}dT+\left(\frac{\partial S}{\partial V}\right)_{T}dV$이다.
+- 이들 역시 dU에 대한 기본식과 Maxwell 관계식을 사용하면 아래와 같은 식을 얻을 수 있다.
+- $dU=C_{V}dT+\left\lbrack T\left(\frac{\partial P}{\partial T}\right)_{V}-P\right\rbrack dV$ , $dS=C_{V}\frac{dT}{T}+\left(\frac{\partial P}{\partial T}\right)_{V}dV$
+- 이들은 조성이 일정한 균질유체의 내부에너지와 엔트로피를 온도 및 부피와 연관시키는 일반식이다.
+- 이들 역시 부피 팽창률, 등온 압축률과 연관해 나타낼 수 있다.
+
+5\. 생성함수로서의 Gibbs 에너지
