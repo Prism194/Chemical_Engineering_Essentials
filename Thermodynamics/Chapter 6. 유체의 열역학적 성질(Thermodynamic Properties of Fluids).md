@@ -51,4 +51,6 @@
 - 이를 대입하면 $dH^{ig}=C_{P}^{ig}dT,dS^{ig}=C_{P}^{ig}\frac{dT}{T}-R_{}\frac{dP}{P}$
 	-> 이 식은 3.3, 5.5절에서 이상기체 상태에 대해 제시한 식들이다
 4\) 액체 상태에 적용
-- 
+- 부피 팽창률 정의 : $\beta=\frac{1}{V}\left(\frac{\partial V}{\partial T}\right)_{P}dT+\left(\frac{\partial V}{\partial P}\right)_{T}dP$ 
+- 이 식을 사용하면, 
+- $dH=C_{P}dT+\left(1-\beta T\right)VdP,dS=C_{P}\frac{dT}{T}-\beta VdP$ 
