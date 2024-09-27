@@ -8,4 +8,11 @@
 1\. 기본적인 성질 관계식 표현
 1\) 유도 및 정의
 - $d\left(nU\right)=dQ_{rev}+dW_{rev}$
-- 
+- $dW=-Pd\left(nV\right)$, $dQ_{rev}=Td\left(nS\right)$
+- 따라서, $d\left(nU\right)=Td\left(nS\right)-Pd\left(nV\right)$
+2\) 주요 열역학적 성질
+- 엔탈피 정의 : $H=U+PV$
+- Helmholtz 에너지 정의 : $A=U-TS$
+- Gibbs 에너지 정의 : $G=H-TS=U+PV-TS$
+3\) 주요 열역학적 성질 미분(n = 1로 두었을 때)
+- $dH=dU+PdV+VdP=TdS+VdP$(, 
