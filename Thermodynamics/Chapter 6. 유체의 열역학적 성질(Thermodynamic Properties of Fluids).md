@@ -47,4 +47,8 @@
 - 이 식들은 Maxwell 관계식과 엔탈피 식의 미분꼴로부터 얻어졌다.
 - <font color="#003380"><strong>일정조성의 균질유체에 대해 엔탈피와 엔트로피를 온도 및 압력과 관련지어주는 일반식들이다.</strong></font> -> 질문
 3\) 이상기체 상태에 적용
+- $PV^{ig}=RT,\left(\frac{\partial V^{ig}}{\partial T}\right)_{P}=\frac{R}{P}$
+- 이를 대입하면 $dH^{ig}=C_{P}^{ig}dT,dS^{ig}=C_{P}^{ig}\frac{dT}{T}-R_{}\frac{dP}{P}$
+	-> 이 식은 3.3, 5.5절에서 이상기체 상태에 대해 제시한 식들이다
+4\) 액체 상태에 적용
 - 
