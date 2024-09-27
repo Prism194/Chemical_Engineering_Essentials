@@ -37,4 +37,6 @@
 - 엔탈피와 엔트로피는 가장 중요한 열역학적 성질
 - T, P는 계의 가장 일반적인 측정 가능한 성질
 2\) 식 유도
-- 기본식 : 
+- 기본식 : $dH=\left(\frac{\partial H}{\partial T}\right)_{P}dT+\left(\frac{\partial H}{\partial P}\right)_{T}dP$, $dS=\left(\frac{\partial S}{\partial T}\right)_{P}dT+\left(\frac{\partial S}{\partial P}\right)_{T}dP$(당연)
+- $dH=C_{P}dT+\left\lbrack V-T\left(\frac{dV}{dT}_{}\right)_{P}\right\rbrack dP$, $dH=C_{P}\frac{dT}{T}+\left(\frac{dV}{dT}_{}\right)_{P}dP$
+- 일정조성의 균질유체에 대해 엔탈피와 엔트로피를 온도 및 압력과 
