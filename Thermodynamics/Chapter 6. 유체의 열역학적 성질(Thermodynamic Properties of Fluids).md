@@ -56,4 +56,12 @@
 - 이렇게 적용 가능하다.$dH=C_{P}dT+\left(1-\beta T\right)VdP,dS=C_{P}\frac{dT}{T}-\beta VdP$ 
 - 부피 팽창률을 사용해서 액체에 대한 엔트로피와 엔탈피를 설명할 수 있다고 보면 된다
 - 의의 : 임계점으로부터 먼 액체들은 부피와 부피 팽창률이 모두 작으며 거의 상수로 취급한다, <font color="#003380"><strong>따라서 액체는 대부분의 조건들에서 압력은 큰 영향을 미치지 않는다.</strong></font>(S, H를 P에 대해 편미분한 값이 저 항임을 생각하라)
-5\) P의 함수로서의 내부에너지
+
+4\.내부에너지 함수
+1\) P의 함수로서의 내부에너지
+- H = U + PV, U = H - PV
+- 이를 일정한 T에 대해, P에 대해 편미분하면$\left(\frac{\partial U}{\partial P}\right)_{T}=\left(\frac{\partial H}{\partial P}\right)_{T}-P\left(\frac{\partial V}{\partial P}\right)_{T}-V$ 
+- H에 대한 P, T의 식을 적용하면, $\left(\frac{\partial U}{\partial P}\right)_{T}=-T\left(\frac{\partial V}{\partial T}\right)_{P}-P\left(\frac{\partial V}{\partial P}\right)_{T}$
+- 이는 부피 팽창률과 등온 압축률에 대한 식으로 나타낼 수 있다
+	-> $\left(\frac{\partial U}{\partial P}\right)_{T}=\left(-\beta T+\kappa P\right)V$
+2\) T와 V의 함수로서의 내부에너지와 엔트로피
