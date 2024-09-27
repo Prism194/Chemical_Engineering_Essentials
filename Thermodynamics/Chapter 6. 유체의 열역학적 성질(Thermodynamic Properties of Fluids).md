@@ -53,7 +53,7 @@
 4\) 액체 상태에 적용
 - 부피 팽창률 정의 : $\beta=\frac{1}{V}\left(\frac{\partial V}{\partial T}\right)_{P}dT+\left(\frac{\partial V}{\partial P}\right)_{T}dP$ 
 - 이 식을 사용하면, $\left(\frac{\partial S}{\partial P}\right)_{T}=-\beta V,\left(\frac{\partial H}{\partial P}\right)_{T}=\left(1-\beta T\right)V$이 되며
-- 이렇게 적용 가능하다.$dH=C_{P}dT+\left(1-\beta T\right)VdP,dS=C_{P}\frac{dT}{T}-\beta VdP$ 
+- 이렇게 적용 가능하다.$dH=C_{P}dT+\left(1-\beta T\right)VdP,dS=C_{P}\frac{dT}{T}-\beta VdP$ (6.27), (6.28)
 - 부피 팽창률을 사용해서 액체에 대한 엔트로피와 엔탈피를 설명할 수 있다고 보면 된다
 - 의의 : 임계점으로부터 먼 액체들은 부피와 부피 팽창률이 모두 작으며 거의 상수로 취급한다, <font color="#003380"><strong>따라서 액체는 대부분의 조건들에서 압력은 큰 영향을 미치지 않는다.</strong></font>(S, H를 P에 대해 편미분한 값이 저 항임을 생각하라)
 
@@ -112,4 +112,6 @@
  - 잔류성질의 정의에 의해 $H^{ig}=H_0^{ig}+\int_{T_0}^{T}C_{P}^{ig}dT+H^{R}$,$S^{ig}=S_0^{ig}+\int_{T_0}^{T}C_{P}^{ig}dT-R\ln\frac{P}{P_0}+S^{R}$이다.
  2\) 의의
  <font color="#003380"><strong><center>이상기체 상태의 실제적 가치 : 실제 기체 성질들의 계산을 위한 바탕</center></strong></font>
- - 우리는 
+ - 우리는 기체의 경우 이상기체 상태 열용량과 PVT 데이터만 있으면 열역학적 성질을 알 수 있다
+ - 기체에 대한 실제 적용 : 잔류값들은 일반적으로 상당히 작은 값을 가진다
+ - 고체, 액체에 대한 실제 적용 : 잔류값들은 응축에 따른 상당한 엔탈피, 엔트로피 변화를 가져야 하므로 잔류값들이 상당히 커 위 식을 잘 사용하지 않고, 6.27, 6.28 식을 주로 쓴다(액체에 대한 엔탈피, 엔트로피 계산 식 참조)
