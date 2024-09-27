@@ -18,9 +18,15 @@
 - $dH=dU+PdV+VdP=TdS+VdP$(내부에너지에 대한 식 대입) 
 - $dA=-SdT-PdV$
 - $dG=-SdT+VdP$
-- 따라서, 
+- 따라서, $U=U\left(S,V\right),H=H\left(S,P\right),A=A\left(T,V_{}\right),G=G\left(T,P\right)$
 4\) 적용
 <font color="#003380"><strong><center>위 식들은 닫힌 PVT계에서 한 평형상태에서 다른 평형상태로의 미소변화를 일으키는 임의의 공정에 대해 적용된다.</center></strong></font>
 - 위 식들은 비록 가역공정을 두고 계산되었으나, 상태함수들이므로 비가역 공정에 대해서도 적용 가능하다
 - 오직 계의 상태에만 의존한다
-- 
+
+2\. Maxwell 관계식
+1\) 종류
+- $\left(\frac{\partial T}{\partial V}\right)_{S}=-\left(\frac{\partial P}{\partial S}\right)_{V}$
+- $\left(\frac{\partial T}{\partial P}\right)_{S}=\left(\frac{\partial V}{\partial S}\right)_{P}$
+- $\left(\frac{\partial S}{\partial V}\right)_{T}=\left(\frac{\partial P}{\partial T}\right)_{V}$
+- $-\left(\frac{\partial S}{\partial P}\right)_{T}=\left(\frac{\partial V}{\partial T}\right)_{P}$ 
