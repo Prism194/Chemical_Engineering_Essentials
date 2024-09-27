@@ -48,7 +48,7 @@
 - <font color="#003380"><strong>일정조성의 균질유체에 대해 엔탈피와 엔트로피를 온도 및 압력과 관련지어주는 일반식들이다.</strong></font> -> 질문
 3\) 이상기체 상태에 적용
 - $PV^{ig}=RT,\left(\frac{\partial V^{ig}}{\partial T}\right)_{P}=\frac{R}{P}$
-- 이를 대입하면 $dH^{ig}=C_{P}^{ig}dT,dS^{ig}=C_{P}^{ig}\frac{dT}{T}-R_{}\frac{dP}{P}$
+- 이를 대입하면 $dH^{ig}=C_{P}^{ig}dT,dS^{ig}=C_{P}^{ig}\frac{dT}{T}-R_{}\frac{dP}{P}$(6.23, 6.24)
 	-> 이 식은 3.3, 5.5절에서 이상기체 상태에 대해 제시한 식들이다
 4\) 액체 상태에 적용
 - 부피 팽창률 정의 : $\beta=\frac{1}{V}\left(\frac{\partial V}{\partial T}\right)_{P}dT+\left(\frac{\partial V}{\partial P}\right)_{T}dP$ 
@@ -101,4 +101,10 @@
 2\) 엔탈피와 엔트로피의 잔류성질 계산
 - 깁스 에너지의 잔류성질에 관한 식으로부터, 엔탈피, 엔트로피의 잔류성질에 대한 식을 구할 수 있다.
 - $\frac{H^{R}}{RT}=-T\int_0^{P}\left(\frac{\partial Z}{\partial T}\right)_{P}\frac{dP}{P}$
-- $G^{R}=H^{R}-TS^{R}$을 이용하면 엔탈피 잔류성질에 대한 식에서 엔트로피 잔류성질에 대한 식을
+- $G^{R}=H^{R}-TS^{R}$을 이용하면 엔탈피 잔류성질에 대한 식에서 엔트로피 잔류성질에 대한 식을 구할 수 있다. $\frac{S^{R}}{RT}=-T\int_0^{P}\left(\frac{dZ}{dT}\right)_{P}\frac{dP}{P}-\int_0^{P}\left(Z-1\right)_{}\frac{dP}{P}$(T 일정)
+3\) Gibbs 에너지, 엔탈피, 엔트로피의 잔류성질에 대한 식의 응용
+- PVT 실험 데이터에서 얻은 값을 적분식에 적용해서 압축인자 Z에 대한 값을 결정할 수 있다
+- 반대로 상태 방정식을 통해 얻은 Z값들을 적용해서 잔류성질들을 구할 수 있다
+
+3\. 잔류성질로부터의 엔탈피와 엔트로피 
+- 
