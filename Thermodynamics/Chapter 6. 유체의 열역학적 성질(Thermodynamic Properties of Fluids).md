@@ -80,7 +80,7 @@
 2\) 실제 V, H값 표현 by Gibbs 에너지
 - d(G/RT)에 대한 식을 응용하면, 다음 식이 나온다. $\frac{V}{RT}=\left\lbrack\frac{\partial\left(\frac{G}{RT}\right)}{\partial P}\right\rbrack_{T},\frac{H}{RT}=-T\left\lbrack\frac{\partial\left(\frac{G}{RT}\right)}{\partial T}\right\rbrack_{P}$ 
 - 이는 H, V에 대한 직접적인 표현이다.
-- 이 식들을 응용해서 S, U에 대한 식도 결정 가능하다
+- H, V에 대한 식을 응용해서 S, U에 대한 식도 결정 가능하다
 3\) 생성함수로서의 Gibbs 에너지
 <font color="#003380"><strong><center>Gibbs 에너지가 정준변수인 T, P의 함수로 주어지면, 간단한 수학적 연산을 통해 다른 열역학적 성질들에 대한 생성함수로서의 역할을 한다.</center></strong></font>
 - cf. Helmholtz 에너지 역시 비슷한 일을 할 수 있다
@@ -94,4 +94,11 @@
 2\. 잔류성질을 계산하기 위한 식 전개
 1\) Gibbs 에너지에 대한 잔류성질 유도
 -  $\frac{V^{R}}{RT}=\left\lbrack\frac{\partial\left(\frac{G^{R}}{RT}\right)}{\partial P}\right\rbrack_{T}$(6.42)이와 같이 잔류성질은 그냥 R첨자만 붙이면 된다
-- T는 일정하다고 두면, , $\left(\frac{G^{R}}{RT}\right)_{P=0}=J$라고 두면
+- T는 일정하다고 두면, $d\left(\frac{G^{R}}{RT}\right)=\frac{V^{R}}{RT}dP\left(T일정\right)$, 이다.
+- P=0에서부터 임의의 압력 P까지 적분하면, $\frac{G^{R}}{RT}=J+\int_0^{P}\left(Z-1\right)_{}\frac{dP}{P}$이다. 
+	-> $\left(\frac{G^{R}}{RT}\right)_{P=0}=J$ (적분상수)이다.
+- 이 식을 간단히 쓰면, $$\frac{G^{R}}{RT}=\int_0^{P}\left(Z-1\right)_{}\frac{dP}{P}$$ 이다.
+2\) 엔탈피와 엔트로피의 잔류성질 계산
+- 깁스 에너지의 잔류성질에 관한 식으로부터, 엔탈피, 엔트로피의 잔류성질에 대한 식을 구할 수 있다.
+- $\frac{H^{R}}{RT}=-T\int_0^{P}\left(\frac{\partial Z}{\partial T}\right)_{P}\frac{dP}{P}$
+- $G^{R}=H^{R}-TS^{R}$을 이용하면 엔탈피 잔류성질에 대한 식에서 엔트로피 잔류성질에 대한 식을
