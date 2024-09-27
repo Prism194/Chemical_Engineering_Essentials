@@ -33,8 +33,10 @@
 - $-\left(\frac{\partial S}{\partial P}\right)_{T}=\left(\frac{\partial V}{\partial T}\right)_{P}$ 
 	-> 암기가 필요하다면 암기 팁을 이용하자
 2\) 유도
-- $dF=\left(\frac{\partial F}{\partial x}\right)_{y}dx+\left(\frac{\partial F}{\partial y}\right)_{x}dy$, 
-- 내부에너지, 엔탈피, Helmholtz 에너지, Gibbs에너지의 미분 꼴에 대해서, 
+- $dF=\left(\frac{\partial F}{\partial x}\right)_{y}dx+\left(\frac{\partial F}{\partial y}\right)_{x}dy$
+- 이때, F를 x로 편미분한 것을 M, y로 편미분한 것을 N이라 두자. M과 N을 각각 y, x로 미분하면 두 식은 같다. 
+- 이 관계를 내부에너지, 엔탈피, Helmholtz 에너지, Gibbs에너지의 미분 꼴에 대해 적용하면 Maxwell관계식을 얻을 수 있다
+
 3\. T와 P의 함수로서의 엔탈피와 엔트로피
 1\) 목적
 - 엔탈피와 엔트로피는 가장 중요한 열역학적 성질
@@ -43,4 +45,6 @@
 - 기본식 : $dH=\left(\frac{\partial H}{\partial T}\right)_{P}dT+\left(\frac{\partial H}{\partial P}\right)_{T}dP$, $dS=\left(\frac{\partial S}{\partial T}\right)_{P}dT+\left(\frac{\partial S}{\partial P}\right)_{T}dP$(당연)
 - $dH=C_{P}dT+\left\lbrack V-T\left(\frac{\partial V}{\partial T}_{}\right)_{P}\right\rbrack dP$, $dH=C_{P}\frac{dT}{T}+\left(\frac{\partial V}{\partial T}_{}\right)_{P}dP$ -> 유도 과정은 책을 참조하라
 - 이 식들은 Maxwell 관계식과 엔탈피 식의 미분꼴로부터 얻어졌다.
-- 일정조성의 균질유체에 대해 엔탈피와 엔트로피를 온도 및 압력과 관련지어주는 일반식들이다.
+- <font color="#003380"><strong>일정조성의 균질유체에 대해 엔탈피와 엔트로피를 온도 및 압력과 관련지어주는 일반식들이다.</strong></font> -> 질문
+3\) 이상기체 상태에 적용
+- 
