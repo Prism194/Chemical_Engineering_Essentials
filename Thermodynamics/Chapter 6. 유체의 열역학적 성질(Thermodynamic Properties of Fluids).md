@@ -72,3 +72,10 @@
 - 이들 역시 부피 팽창률, 등온 압축률과 연관해 나타낼 수 있다.
 
 5\. 생성함수로서의 Gibbs 에너지
+1\) 깁스 에너지를 H, V에 연관시키자
+- $dG=VdP-SdT$이고, G = H - TS이다.
+- $d\left(\frac{G}{RT}\right)=\frac{1}{RT}dG-\frac{G}{RT^2}dT$라는 특수한 항등식에 위 정의를 사용하면 $d\left(\frac{G}{RT}\right)=\frac{V}{RT}dP-\frac{H}{RT^2}dT$이다.
+- 이 식은 무차원이다
+- 기존 깁스 에너지의 미분꼴과 달리, 엔탈피가 나타나고 있어 사용하기 편리하다
+2\) 실제 V, H값 표현 by Gibbs 에너지
+- 
