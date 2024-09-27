@@ -65,3 +65,5 @@
 - 이는 부피 팽창률과 등온 압축률에 대한 식으로 나타낼 수 있다
 	-> $\left(\frac{\partial U}{\partial P}\right)_{T}=\left(-\beta T+\kappa P\right)V$
 2\) T와 V의 함수로서의 내부에너지와 엔트로피
+- dU, dS를 T와 V에 대해 미분하면 
+$dU=C_{V}dT+\left\lbrack T\left(\frac{\partial P}{\partial T}\right)_{V}-P\right\rbrack dV$ , $dS=C_{V}\frac{dT}{T}+\left(\frac{\partial P}{\partial T}\right)_{V}dV$
