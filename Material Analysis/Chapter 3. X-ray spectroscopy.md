@@ -61,12 +61,12 @@ II. The identification of lattice planes
  ![[Pasted image 20240930200521.png|300]]
 - <100>은 6개, \<110>은 12개, \<111>은 8개의 서로 다른 방향들이 각각의 family에 속해있다
 
-4\. Crystallographic Planes
+4\. <font color="#003380"><strong>Crystallographic Planes</strong></font> -> 중요!
 1\) Miller indices(밀러 인덱스)
 - 정의 : 밀러 지수는 평면이 결정학적 x, y, z축과 만나는 절편의 역수이다. 이 축들은 cubic unit cell의 평행하지 않은 세 개의 모서리(edge)에 해당한다.
 - 목적 : 구체적인 결정 평면을 알아내기 위해서
 2\) 구하는 법
-- 1. 평면이 선택된 원점을 지날 때는 또 다른 unit cell에 새로운 원점 잡기
+- 1. 평면이 선택된 원점을 지날 때는 다른 unit cell에 새로운 원점 잡기(점으로 만나는 것 뿐 아니라 면이 가로질러가더라도)
 - 2. 평면이 x, y, z 축들과 만나는 절편값 읽기
 - 3. 절편의 역수(reciprocal) 취하기
 - 4. lattice parameter a, b, c를 각각 곱해서 절편의 역수값을 normalize(정규화)하기
@@ -90,6 +90,10 @@ II. The identification of lattice planes
 ![[Pasted image 20240930202242.png|300]]
 - [hkl] 방향과 (hkl) 방향은 서로 수직
 - cubic crystal에 대해서, <font color="#003380"><strong>같은 인덱스값을 가지고 있는 plane과 direction은 서로 수직이다</strong></font>.
+6\) 표기법 정리
+- point coordinates : a b c
+- directions : \[a b c]
+- planes : (a b c)
 
 5\. Hexagonal unit cells에서 Miller indices를 구하자
 1\) 예제 :  a1, a2, z축에서의 절편을 구하고, Miller indice를 구하라
