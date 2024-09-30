@@ -58,5 +58,6 @@ II. The identification of lattice planes
 
 4\. Crystallographic Planes
 1\) Miller indices(밀러 인덱스)
-- 정의 : 
+- 정의 : 밀러 지수는 평면이 결정학적 x, y, z축과 만나는 절편의 역수이다. 이 축들은 cubic unit cell의 평행하지 않은 세 개의 모서리(edge)에 해당한다.
 - 목적 : 구체적인 결정 평면을 알아내기 위해서
+2\) 구하는 법
