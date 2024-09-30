@@ -54,7 +54,7 @@ II. The identification of lattice planes
 2\) 표기 : angle bracket(<>)안의 인덱스로 표시
 - e.g. <100> : \[100], \[010], \[001], \[$\bar{1}00$], \[$0\bar{1}0$], \[$00\bar{1}$], 위 그림에서도 보이듯이, 결정학적으로 동등한 모든 방향(원자 간 간격이 동일)들을 찾을 수 있다. 나머지 예시도 마찬가지
  ![[Pasted image 20240930200521.png|300]]
-- \<100>은 6개, \<110>은 12개, \<111>은 8개의 서로 다른 방향들이 각각의 family에 속해있다
+- <100>은 6개, \<110>은 12개, \<111>은 8개의 서로 다른 방향들이 각각의 family에 속해있다
 
 4\. Crystallographic Planes
 1\) Miller indices(밀러 인덱스)
@@ -83,4 +83,13 @@ II. The identification of lattice planes
 ![[Pasted image 20240930202138.png]]
 5\) cubic system에서 (hkl)과 \[hkl]의 관계
 ![[Pasted image 20240930202242.png|300]]
-- \[hkl] 방향과 (ㅘ)
+- [hkl] 방향과 (hkl) 방향은 서로 수직
+- cubic crystal에 대해서, <font color="#003380"><strong>같은 인덱스값을 가지고 있는 plane과 direction은 서로 수직이다</strong></font>.
+
+5\. Hexagonal unit cells에서 Miller indices를 구하자
+1\) 예제 :  a1, a2, z축에서의 절편을 구하고, Miller indice를 구하라
+![[Pasted image 20240930202614.png]]
+- 유사한 방법으로 해결 가능하다
+2\) 예시들
+![[Pasted image 20240930202741.png|400]]
+- 
