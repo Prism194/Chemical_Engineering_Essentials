@@ -102,21 +102,23 @@ II. The identification of lattice planes
 1\) 예제 :  a1, a2, a3 z축에서의 절편을 구하고, Miller indice를 구하라
 ![[Pasted image 20240930202614.png]]
 - 유사한 방법으로 해결 가능하다, origin 지나는 건 고려 안해도 됨
-2\) 예시들
+2\) 예시들(연습하기)
 - a1, a2, z축에서의 절편을 구하고, Miller indice를 구하라
 ![[Pasted image 20240930202741.png|400]]
+- 첫 번째 : a, a, -a/2, c -> 1/a, 1/a, -2/a, 1/c -> 1 1 -1 1 -> ($11\bar{2}1$)
 
 III. Neighboring planes & Interplanar spacing
 1\. Crystallographic planes
 1\) Family of directions
 - 정의 : 결정학적으로 동등한 방향들(같은 atomic spacing을 가진 것들)
 - e.g. <100> : \[100], \[010], \[001], \[$\bar{1}00$], \[$0\bar{1}0$], \[$00\bar{1}$]
-2\) Family of planes
+2\) Family of planes(curly bracket{}으로 표시)
 ![[Screenshot from 2024-09-30 20-33-03.png]]
-- 정의 : 결정학적으로 동등한 평면들(같은 atomic packing을 가진 것들)
+- 정의 : 결정학적으로 동등한 평면들(같은 atomic packing을 가진 것들, property가 동일함)
 - e.g. {100} : (100), (010), (001), ($\bar{1}00$), ($0\bar{1}0$), ($00\bar{1}$)
 
 2\. The neighboring planes
+면들은 무한
 index 0 : plane이 해당하는 축과 평행하다는 것을 의미,
 indexing은 non-orthogonal axes(직각이 아닌)에 대해서도 성립
 ![[Pasted image 20240930203701.png]]
