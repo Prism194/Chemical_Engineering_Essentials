@@ -1,11 +1,13 @@
 I\. X-ray diffraction(X-ray 회절)
 1\. X-ray diffraction
 - 빛을 회절시키기 위해서는, diffraction granting spacing(회절격자 간격, spacing between planes)이 빛의 파장과 비슷해야 한다.
-- X-ray들은 원자의 평면(planes of atoms)에 의해 회절된다
+- X-ray들은 원자의 평면(planes of atoms)에 의해 회절된다 -> atom plane의 구조 파악 가능
 - interplanar spacing(평면 간 간격) : 원자의 평행한 평면 사이 거리
 2\. X-rays to determine crystal structure
 - 결정형 평면들은 incoming X-ray들을 회절시킨다
 ![[Pasted image 20240930191904.png]]![[Pasted image 20240930192051.png]]
+- 첫 번째 그림에서, 1번 X-ray와 2번 X-ray의 차이는 purple line만큼이다. 이 값은 $2d\sin\theta$ , 이것이 파장과 비례하면 X-ray들이 2번째 그림처럼 회절되었다고 볼 수 있다.
+- 특정 각도에서에서 회절이 일어나서($\theta_{c}$값을 통해) d값을 계산할 수 있다.
 - 회절은 $\theta=\theta_{c}$일 때 일어난다
 - 회절각 $\theta_{c}$를 측정하여 interplanar spacing d를 결정한다 -> 공식 참조
 
