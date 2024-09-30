@@ -61,3 +61,12 @@ II. The identification of lattice planes
 - 정의 : 밀러 지수는 평면이 결정학적 x, y, z축과 만나는 절편의 역수이다. 이 축들은 cubic unit cell의 평행하지 않은 세 개의 모서리(edge)에 해당한다.
 - 목적 : 구체적인 결정 평면을 알아내기 위해서
 2\) 구하는 법
+- 1. 평면이 선택된 원점을 지날 때는 또 다른 unit cell에 새로운 원점 잡기
+- 2. 평면이 x, y, z 축들과 만나는 절편값 읽기
+- 3. 절편의 역수(reciprocal) 취하기
+- 4. lattice parameter a, b, c를 각각 곱해서 절편의 역수값을 normalize(정규화)하기
+- 5. 가장 작은 정수값으로 변환
+- 6. 구해진 Miller indices들을 소괄호로 감싸고, 콤마는 쓰지 않기
+3\) 예시들
+![[Pasted image 20240930201643.png]]
+![[Pasted image 20240930201756.png]]
