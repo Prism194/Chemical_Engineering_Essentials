@@ -45,3 +45,9 @@ II. The identification of lattice planes
 	-4,1,2 =>\[$\bar{4} 1 2$]
 - cf. overbar -> 음수 표현
 
+4\) Family of directions
+![[Pasted image 20240930195241.png]]
+- 정의 : <font color="#003380"><strong>결정학적으로</strong></font> 동등한 모든 방향(원자 간 간격이 동일)
+- 표기 : angle bracket(<>)안의 인덱스로 표시
+- e.g. <100> : \[100], \[010], \[001], \[$\bar{1}00$], \[$0\bar{1}0$], \[$00\bar{1}$], 위 그림에서도 보이듯이, 원점에서 1만큼 거리가 떨어져 있는 격자점들을 모두 나타낸
+- 
