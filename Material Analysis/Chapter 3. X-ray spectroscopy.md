@@ -128,9 +128,13 @@ III. Neighboring planes & Interplanar spacing
 plane들이 무한히 반복된다
 
 3\. separation of neighboring planes
+1\) 평면의 반복 -> 평면 사이의 간격을 알고 싶다(cubic lattice에서)
+- cubic lattice가정(모두 다 a)
 ![[Pasted image 20240930212949.png|300]]
-- 평면의 반복 -> 평면 사이의 간격을 알고 싶다
 - (h k 0) plane일 때 cross section이 a/h, a/k임을 이해해야 한다
-- 위 그림에서 유도된 대로, a/h, a/k 라고 뒀을 때, 자연스럽게 (hk0) 평면이 형성된다
+- 위 그림에서 유도된 대로, a/h, a/k 라고 뒀을 때, 자연스럽게 (hk0) 평면이 형성된다.
+- d spacing 값을 구하기 위해서, $\sin^2\theta+\cos^2\theta=1$관계를 사용할 것
+- $\sin^2\Phi+\cos^2\Phi=1$
 - 우리는 d spacing, plane 사이 거리를 구하고자 하는 것
-- 
+
+- orthonombic(각도는 다 90도, 길이가 다 다름) -> 우리는 cubic만 볼 것.
