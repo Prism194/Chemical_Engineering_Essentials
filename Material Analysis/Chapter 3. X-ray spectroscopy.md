@@ -22,7 +22,9 @@ II. The identification of lattice planes
 - 2. unit cell edge length(a,b,c)로 나누고 comma 삭제
 	->$\frac{a}{a}\frac{b}{b}\frac{c}{c}=111$
 - 3. unit cell corner의 점 좌표 -> 111
-
+3\) 예시
+- a 0 0 -> a/a, 0/b, 0/c -> 1 0 0
+- a/2 b c -> a/2 /a , b/b c/c -> 1/2, 1, 1 ...
 2\. Crystallographic Directions(결정학적 방향)
 1\) 정의
 - ㅁㅁㅁ
@@ -35,6 +37,7 @@ II. The identification of lattice planes
 - 3. 좌표 간의 차를 격자 parameter a, b, c로 normalize : ($\frac{a-0}{a},\frac{0-0}{b},\frac{\frac{c}{2}-0}{c}$)
 - 4. 최소 정수 값으로 맞추기 : 1, 0, 1/2 -> 2, 0, 1
 - 5. comma를 빼고, square bracket으로 감싸기 : 2, 0, 1 -> \[2 0 1]
+- 가장 오른쪽 예시 : 0 b c/2 -> 0/a b/b (c/2)/c \[0 1 1/2 
 3\) 또다른 예시
 ![[Pasted image 20240930193934.png|150]]
 - 1. Point coordinates of tail and head
