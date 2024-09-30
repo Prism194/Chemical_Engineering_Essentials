@@ -91,5 +91,15 @@ II. The identification of lattice planes
 ![[Pasted image 20240930202614.png]]
 - 유사한 방법으로 해결 가능하다
 2\) 예시들
+- a1, a2, z축에서의 절편을 구하고, Miller indice를 구하라
 ![[Pasted image 20240930202741.png|400]]
+
+III. Neighboring planes & Interplanar spacing
+1\. Crystallographic planes
+1\) Family of directions
+- 정의 : 결정학적으로 동등한 방향들(같은 atomic spacing을 가진 것들)
+- e.g. <100> : \[100], \[010], \[001], \[$\bar{1}00$], \[$0\bar{1}0$], \[$00\bar{1}$]
+2\) Family of planes
+- 정의 : 결정학적으로 동등한 평면들(같은 atomic packing을 가진 것들)
+- e.g. {100} : (100), (010), (001), ($\bar{1}00$), ($0\bar{1}0$), ($00\bar{1}$)
 - 
