@@ -26,6 +26,11 @@ II. The identification of lattice planes
 - ㅁㅁㅁ
 2\) 구하는 법
 ![[Pasted image 20240930193217.png|150]]
-- vector tail, vector head의 coordinates(좌표)를 결정
-	위 경우, vector tail은 x
-
+- 1. vector tail, vector head의 coordinates(좌표)를 결정
+	위 경우, vector tail은 $x_1=0,y_1=0,z_1=0$
+	vector head는 $x_1=a,y_1=0,z_1=c/2$
+- 2. tail point 좌표를 head point 좌표로 뺀다
+- 3. 좌표 간의 차를 격자 parameter a, b, c로 나누기 : ($\frac{a-0}{a},\frac{0-0}{b},\frac{\frac{c}{2}-0}{c}$)
+- 4. 최소 정수 값으로 맞추기 : 1, 0, 1/2 -> 2, 0, 1
+- 5. comma를 빼고, square bracket으로 감싸기 : 2, 0, 1 -> \[2 0 1]
+- 
