@@ -100,6 +100,11 @@ III. Neighboring planes & Interplanar spacing
 - 정의 : 결정학적으로 동등한 방향들(같은 atomic spacing을 가진 것들)
 - e.g. <100> : \[100], \[010], \[001], \[$\bar{1}00$], \[$0\bar{1}0$], \[$00\bar{1}$]
 2\) Family of planes
+![[Screenshot from 2024-09-30 20-33-03.png]]
 - 정의 : 결정학적으로 동등한 평면들(같은 atomic packing을 가진 것들)
 - e.g. {100} : (100), (010), (001), ($\bar{1}00$), ($0\bar{1}0$), ($00\bar{1}$)
-- 
+
+2\. The neighboring planes
+index 0 : plane이 해당하는 축과 평행하다는 것을 의미,
+indexing은 non-orthogonal axes(직각이 아닌)에 대해서도 성립
+![[Pasted image 20240930203701.png]]
