@@ -42,4 +42,6 @@ II. The identification of lattice planes
 	$\frac{-a-a}{a}=-2,\frac{b-\frac{b}{2}}{b}=\frac12,\frac{c-0}{c}=1$
 	=> -2, 1/2, 1
 - 4 & 5. in this case, multiply by 2 to eliminate the fraction, then place in square brackets(no commas)
-	-4,1,2
+	-4,1,2 =>\[$\bar{4} 1 2$]
+- cf. overbar -> 음수 표현
+
