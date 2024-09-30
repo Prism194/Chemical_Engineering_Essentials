@@ -1,4 +1,3 @@
-S2. X-ray diffraction
-X-rays are diffracted by planes of atoms -> good to determine the structure of composite
-S3. 원자 -> d spacing 존재, diffracted X-ray 발생,
-- purplre line : incoming X-ray의 차이 -> 2d sin theta
+I\. X-ray diffraction(X-ray 회절)
+1\. X-ray diffraction
+- 빛을 회절시키기 위해서는, diffraction granting spacing이 빛의 파장과 비슷해야 한다.
