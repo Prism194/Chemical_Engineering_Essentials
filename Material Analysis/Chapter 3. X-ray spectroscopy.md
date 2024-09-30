@@ -134,7 +134,10 @@ plane들이 무한히 반복된다
 - (h k 0) plane일 때 cross section이 a/h, a/k임을 이해해야 한다
 - 위 그림에서 유도된 대로, a/h, a/k 라고 뒀을 때, 자연스럽게 (hk0) 평면이 형성된다.
 - d spacing 값을 구하기 위해서, $\sin^2\theta+\cos^2\theta=1$관계를 사용할 것
-- $\sin^2\Phi+\cos^2\Phi=1$
+- $\sin\theta=\frac{d}{\left(\frac{a}{h}\right)}=\frac{hd}{a},\cos\theta=\frac{d}{\left(\frac{a}{k}\right)}=\frac{kd}{a}$
+- $\left(\frac{hd}{a}\right)^2+\left(\frac{kd}{a}\right)^2=1$
+- 양변을 d제곱으로 나누면, $\frac{1}{d^2}=\frac{h^2+k^2}{a^2},d=\frac{a}{\left(h^2+k^2\right)^{\frac12}}$(편의상 아래첨자들은 생략함)
+- 이를 3차원으로 일반화하면, 
 - 우리는 d spacing, plane 사이 거리를 구하고자 하는 것
 
 - orthonombic(각도는 다 90도, 길이가 다 다름) -> 우리는 cubic만 볼 것.
