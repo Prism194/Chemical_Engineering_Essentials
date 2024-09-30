@@ -127,4 +127,10 @@ III. Neighboring planes & Interplanar spacing
 - 무한대, 무한대, c -> 0 0 1/c -> 0 0 1, 나머지들도 다 (001) plane들이다
 plane들이 무한히 반복된다
 
-3\. s
+3\. separation of neighboring planes
+![[Pasted image 20240930212949.png|300]]
+- 평면의 반복 -> 평면 사이의 간격을 알고 싶다
+- (h k 0) plane일 때 cross section이 a/h, a/k임을 이해해야 한다
+- 위 그림에서 유도된 대로, a/h, a/k 라고 뒀을 때, 자연스럽게 (hk0) 평면이 형성된다
+- 우리는 d spacing, plane 사이 거리를 구하고자 하는 것
+- 
