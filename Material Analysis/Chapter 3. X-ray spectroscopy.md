@@ -67,6 +67,20 @@ II. The identification of lattice planes
 - 4. lattice parameter a, b, c를 각각 곱해서 절편의 역수값을 normalize(정규화)하기
 - 5. 가장 작은 정수값으로 변환
 - 6. 구해진 Miller indices들을 소괄호로 감싸고, 콤마는 쓰지 않기
-3\) 예시들
-![[Pasted image 20240930201643.png]]
+3\) 문제 예시들
+![[Pasted image 20240930201643.png|]]
 ![[Pasted image 20240930201756.png]]
+![[Pasted image 20240930201824.png]]
+- 3번째 경우 풀이
+- 1. Relocate origin - 필요 없음
+- 2. 절편 : a/2, b, 3c/4
+- 3. 역수 : 2/a, 1/b, 4/3c
+- 4. 정규화 : 2, 1, 4/3
+- 5. reduction : 6, 3, 4
+- 6. Miller indices : (6 3 4)
+
+4\) crystallographic plane들의 예시들
+![[Pasted image 20240930202138.png]]
+5\) cubic system에서 (hkl)과 \[hkl]의 관계
+![[Pasted image 20240930202242.png|300]]
+- \[hkl] 방향과 (ㅘ)
