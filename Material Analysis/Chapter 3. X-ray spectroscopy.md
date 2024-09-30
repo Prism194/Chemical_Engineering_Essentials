@@ -70,10 +70,11 @@ II. The identification of lattice planes
 - 2. 평면이 x, y, z 축들과 만나는 절편값 읽기
 - 3. 절편의 역수(reciprocal) 취하기
 - 4. lattice parameter a, b, c를 각각 곱해서 절편의 역수값을 normalize(정규화)하기
-- 5. 가장 작은 정수값으로 변환
+- 5. 정수값으로 축소
 - 6. 구해진 Miller indices들을 소괄호로 감싸고, 콤마는 쓰지 않기
 3\) 문제 예시들
 ![[Pasted image 20240930201643.png|]]
+- z축과의 교점은 없다(무한대 처리)
 ![[Pasted image 20240930201756.png]]
 ![[Pasted image 20240930201824.png]]
 - 3번째 경우 풀이
