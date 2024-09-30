@@ -10,13 +10,13 @@ I\. X-ray diffraction(X-ray 회절)
 - 특정 각도에서에서 회절이 일어나서($\theta_{c}$값을 통해) d값을 계산할 수 있다.
 - 회절은 $\theta=\theta_{c}$일 때 일어난다
 - 회절각 $\theta_{c}$를 측정하여 interplanar spacing d를 결정한다 -> 공식 참조
-
+- e.g. Fe(BCC)($\alpha-iron$(BCC))의 경우, XRD 분석 결과 (110) plane, (200) plane, (211) plane을 가짐 -> 이들을 파악하면 Fe(BCC)임을 파악 가능
 II. The identification of lattice planes
 1\. Point coordinates(점 좌표)
 ![[Pasted image 20240930192433.png|150]]![[Pasted image 20240930192926.png|350]]
 1\) 정의
-- 정의 : 단위 셀 안에서의 격자 위치
-- 단위 셀 edge length a, b, c의 부분 배수로 결정됩니다
+- 정의 : 단위 셀 안에서의 lattice position(사실상 점의 위치)
+- 단위 셀 edge length a, b, c의 부분 배수로 결정
 2\) 구하는 법(e.g. unit cell upper corner, 위 그림)
 - 1. 격자 포지션 : a, b, c
 - 2. unit cell edge length(a,b,c)로 나누고 comma 삭제
