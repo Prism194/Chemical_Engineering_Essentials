@@ -136,9 +136,9 @@ plane들이 무한히 반복된다
 - d spacing 값을 구하기 위해서, $\sin^2\theta+\cos^2\theta=1$관계를 사용할 것
 - $\sin\theta=\frac{d_{hk0}}{\left(\frac{a}{h}\right)}=\frac{hd_{hk0}}{a},\cos\theta=\frac{d_{hk0}}{\left(\frac{a}{k}\right)}=\frac{kd_{hk0}}{a}$
 - $\left(\frac{hd}{a}\right)^2+\left(\frac{kd}{a}\right)^2=1$
-- 양변을 d제곱으로 나누면, $\frac{1}{d^2}=\frac{h^2+k^2}{a^2},d=\frac{a}{\left(h^2+k^2\right)^{\frac12}}$(편의상 일부 아래첨자들은 생략함, 실제로는 $d_{hkl}$로 쓰기)
-- 이를 3차원으로 일반화하면, $\frac{1}{d^2}=\frac{h^2+k^2+l^2}{a^2},d=\frac{a}{\left(h^2+k^{^2}+l^2\right)^{\frac12}}$
-
+- 양변을 d제곱으로 나누면, $\frac{1}{d_{hkl}^2}=\frac{h^2+k^2}{a^2},d_{hkl}=\frac{a}{\left(h^2+k^2\right)^{\frac12}}$(편의상 일부 아래첨자들은 생략함, 실제로는 $d_{hkl}$로 쓰기)
+- 이를 3차원으로 일반화하면, $\frac{1}{d_{hkl}^2}=\frac{h^2+k^2+l^2}{a^2},d_{hkl}=\frac{a}{\left(h^2+k^{^2}+l^2\right)^{\frac12}}$
+2\) d spacing 구하는 공식
 - orthonombic(각도는 다 90도, 길이가 다 다름)의 경우
-- $\frac{1}{d^2}=\frac{h^2}{a^2}+\frac{k^2}{b^2}+\frac{l^2}{c^2}$ 
-- 
+- $\frac{1}{d_{hkl}^2}=\frac{h^2}{a^2}+\frac{k^2}{b^2}+\frac{l^2}{c^2}$
+- 책에 있는 예제 확인
