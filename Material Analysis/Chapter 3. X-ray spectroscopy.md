@@ -141,3 +141,4 @@ plane들이 무한히 반복된다
 
 - orthonombic(각도는 다 90도, 길이가 다 다름)의 경우
 - $\frac{1}{d^2}=\frac{h^2}{a^2}+\frac{k^2}{b^2}+\frac{l^2}{c^2}$ 
+- 
