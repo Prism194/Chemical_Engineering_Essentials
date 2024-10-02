@@ -141,3 +141,8 @@ plane들이 무한히 반복된다
 
 - orthonombic(각도는 다 90도, 길이가 다 다름)의 경우
 - $\frac{1}{d^2}=\frac{h^2}{a^2}+\frac{k^2}{b^2}+\frac{l^2}{c^2}$ 
+
+copper 예시
+- FCC -> cubic이다
+- 220을 줬으니까 그냥 대입해서 풀면 끝난다
+- a/2, a/2, $\infty$ -> 2/a 2/a 0 -> 2 2 0
