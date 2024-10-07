@@ -52,10 +52,23 @@ kc는 root dab에 비례함을 알 수 있다.
 second order였다고 한다면 관계들이 크게 달라질 것
 
 6주차 현강
-S2
+S2~5
 17.3 
+shape factor에 대한 table은 준다(식 암기 x)
+description을 보고 그림을 그려서 합치하는 식을 찾으면 된다.
 concentric circular cylinder -> 동심원, cylinder의 구성에 따라 S의 값들이 달라진다
-eccentric cylinder -> 서로 다른 shape factor tㅣㄱ
+eccentric cylinder -> 서로 다른 shape factor 식
+
+S11~12
+single dimensional 에서 벗어나서, 2차, 3차원 system에서의 flux를 관찰하자
+x direction, y direction으로의 흐름, 편미분방정식을 풀면, 
+X, Y에 대한 간단한 식이 나타난다. 식 암기가 아닌, 어떻게 유도되는지 파악하자
+
+S15
+3 transfer occuring at the same time
+
+
+
 
 
 
