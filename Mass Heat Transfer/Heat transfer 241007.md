@@ -1,4 +1,5 @@
 example 3번, 주요 문제
+5주차 현강
 17.1 ~ 17.7
 S20
 single molecule diffusion,
@@ -49,6 +50,15 @@ hatta number : influence of chemical reaction
 kc는 root dab에 비례함을 알 수 있다. 
 
 second order였다고 한다면 관계들이 크게 달라질 것
+
+6주차 현강
+S2
+17.3 
+concentric circular cylinder -> 동심원, cylinder의 구성에 따라 S의 값들이 달라진다
+eccentric cylinder -> 서로 다른 shape factor tㅣㄱ
+
+
+
 
 
 
