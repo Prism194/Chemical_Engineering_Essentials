@@ -1,6 +1,15 @@
 example 3번, 주요 문제
 5주차 현강
 17.1 ~ 17.7
+S13
+x축 값을 L root h/kt로 쓰면 된다.
+chart들을 시험에서 줄 것인데, 여기서 값을 계산하면 된다.
+
+S14 : example 3 -> 주요 문제
+1.27mm enRp, 1.27cm 간격, 높이는 2.5cm 통합 79개만큼의 pin이 들어간다. 
+간격 부분의 경우, pin이 차지하는 부분이 아닌 면적(A0)
+pin에 의한 부분 : 겉넓이로 계산, 6면에서 양쪽 끝과, 밑부분은 무시하고, 나머지 3면만을 가지고 계산한다
+
 S20
 single molecule diffusion,
 A species가 어떻게 diffuse할 것인가
