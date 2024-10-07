@@ -42,6 +42,14 @@ boundary condition에서 농도 결정,
 왜 Naz = -Dab dca/dz -> gas 상태라서? yA -> 0, 다른 term이 필요가 없다.
 first order kinetic사용, 
 concentration profile 결정, mass flux : delta is effective length, 
+hatta number : influence of chemical reaction
+
+식들 암기하지 말고, concepet 이해, 
+결론적으로 Naz에 대한 아래의 간단한 식으로 결정되며, 이는 대류전달계수에 의한 식과 서로 연관된다.
+kc는 root dab에 비례함을 알 수 있다. 
+
+second order였다고 한다면 관계들이 크게 달라질 것
+
 
 
 
