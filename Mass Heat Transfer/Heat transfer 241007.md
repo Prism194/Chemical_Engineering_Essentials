@@ -4,6 +4,7 @@ S20
 single molecule diffusion,
 A species가 어떻게 diffuse할 것인가
 general equation -> 기존의 식으로 수렴(no chemical reaction)
+
 S21
 N_B, z
 log-mean average concentration 확인,
@@ -23,7 +24,15 @@ volatile liquid와 inert gas(to) -> level of A liquid is decreased -> not steady
 
 S24 Equimoloar counterdiffuison
 istillation of two constituents whose molar latent heats of vaporization are equalnBinary mixture: NA,Z=-NB,Z without chemical reaction Unimolecular diffusion with diluted diffusing species A (yA <<1)
+yA(Na+Nbz) 를 삭제 가능한 조건 존재
 
+S25 1d mass trasnfer with chemical reaction
+homogeneous, heterogeneous -> 확산이 일어나는 부분에서 반응이 일어나면 homogeneous, 
+phase의 boundary -> heterogeneous
+
+C 표면에서 O 농도 감소, CO 농도는 증가. CO는 밖으로 확산, O2는 안으로 확산하면서 반대 방향으로 이동
+S26 
+balance, O2, fraction at the bulk를 구하고, 
 
 
 
