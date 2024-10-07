@@ -66,8 +66,13 @@ X, Y에 대한 간단한 식이 나타난다. 식 암기가 아닌, 어떻게 �
 
 S15
 3 transfer occuring at the same time
+gas -> transfers molecules, loses energy, 응축되면서 concentration decrease
+온도 감소, 농도도 같이 감소한다. 
+momentum change와 mass change가 같이 일어남
 
+mass : 24~26장, heat : 15~17장
 
+중요한 부분은 
 
 
 
