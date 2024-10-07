@@ -26,13 +26,22 @@ S24 Equimoloar counterdiffuison
 istillation of two constituents whose molar latent heats of vaporization are equalnBinary mixture: NA,Z=-NB,Z without chemical reaction Unimolecular diffusion with diluted diffusing species A (yA <<1)
 yA(Na+Nbz) 를 삭제 가능한 조건 존재
 
-S25 1d mass trasnfer with chemical reaction
+S25 1d mass trasnfer with chemical reaction -> 주요 부분, 두가지의 concept이 다르다는 것, 그리고 CO, O2의 diffusion방향이 다르고, 양적 관계가 2:1로 형성되어 있다.
+
 homogeneous, heterogeneous -> 확산이 일어나는 부분에서 반응이 일어나면 homogeneous, 
 phase의 boundary -> heterogeneous
 
 C 표면에서 O 농도 감소, CO 농도는 증가. CO는 밖으로 확산, O2는 안으로 확산하면서 반대 방향으로 이동
+확산 속도보다 화학반응속도가 더 빠르다.
 S26 
-balance, O2, fraction at the bulk를 구하고, 
+balance, O2, fraction at the bulk를 구한다.
+
+S27
+Aspecies 가 A에 있고, 이것이 liquid B에 용해된다. -> solvent와 반응을 일으킴. 
+boundary condition에서 농도 결정,
+왜 Naz = -Dab dca/dz -> gas 상태라서? yA -> 0, 다른 term이 필요가 없다.
+first order kinetic사용, 
+concentration profile 결정, mass flux : delta is effective length, 
 
 
 
