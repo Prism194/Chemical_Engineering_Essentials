@@ -181,4 +181,4 @@ IV. X-ray diffraction theory
 - 평면파들이 장애물과 상호작용하면서 curved wave가 된다. 이때, curved wave의 형태를 역추적하면 장애물의 구조를 알 수 있다
 	e.g. 빛의 간섭 패턴을 통해서 slit 간의 거리를 알 수 있다
 - X-ray의 경우, cryatal 과 X-ray가 상호작용하면서 나타난 diffracted pattern(회절 패턴)을 관찰하여 원 물질을 재구성할 수 있다
-2\) X-ray의 
+2\) X-ray의 여러 변환 과정
