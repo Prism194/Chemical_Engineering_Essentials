@@ -308,7 +308,10 @@ cf. 우리가 입사하는 X-ray광선에 대해서, 항상 이것이 Bragg's la
 3\) 특징
 - 우리가 $d_{hkl}$과 $\theta$를 안다면 우리는 정확한 $\lambda$를 알 수 있다
 - **만약 우리가 $\lambda$와 $\theta$를 안다면, 우리는 상을 구별할 수 있다 => 우리가 XRD를 사용하는 이유**
-- 
+- 만약 빛이 out of phase -> no reinforced beam produced
+- in phase -> reinforced beam produced
+	-> Bragg diffraction은 오직 보강간섭(constructive interference)일 때만 가능
+	
 
 
 
