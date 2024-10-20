@@ -285,14 +285,14 @@ $\epsilon=1.1\times10^{-9}\times Z\times V$
 VI. Principle and characteristic of XRD
 1\. 간섭
 1\) constructive interference(보강 간섭)
-![[Pasted image 20241018170523.png|200]]
+![[Pasted image 20241020215813.png|200]]
 - in phase radiation(동일한 위상)
 2\) destructive interference(상쇄 간섭)
-![[Pasted image 20241018170559.png|200]]
+![[Pasted image 20241020215825.png|200]]
 - out of phase radiation(반대인 위상)
 
 2\. <font color="#ff0000"><strong>Bragg's law</strong></font> -> 매우 중요
-![[Pasted image 20241018171036.png|400]]
+![[Pasted image 20241020215841.png|400]]
 1\) 정의
 - Bragg's law : $n\lambda=2d_{hkl}\sin\theta$
 - 𝝀= X선 파장  
