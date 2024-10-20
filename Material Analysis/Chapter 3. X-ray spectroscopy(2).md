@@ -316,4 +316,9 @@ cf. 우리가 입사하는 X-ray광선에 대해서, 항상 이것이 Bragg's la
 
 VII. Interpereting the diffraction
 1\. Diffraction 해석의 기본 방법
-- 
+1\) Bragg's law를 이용, 치환 방법을 통한 결정
+- $\lambda=2d\sin\theta,d_{hkl}=\frac{a}{\sqrt{h^2+k^2+l^2}}$-> 단, d에 대한 식은 cubic case의 경우에만 해당
+- d에 대해서 치환하면, ![[Pasted image 20241020220728.png]]
+- 이때, lambda와 격자 상수 a는 들어오는 radiation과 나가는 radiation 모두 동일하다(이들은 물질의 종류에 대해서만 다르겠다)
+2\) 
+
